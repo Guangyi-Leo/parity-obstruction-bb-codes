@@ -1,0 +1,122 @@
+{
+  "d=3": {
+    "standard_distance": 3,
+    "mirrored_consistent": true,
+    "mirrored_distance": 2,
+    "samples": 12,
+    "n_cycle_inconsistent": 12,
+    "consistent_distances": [],
+    "min_consistent_distance": null,
+    "frac_consistent_below_d": null,
+    "records": [
+      {
+        "hooks": 2,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 1,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 0,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 2,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 1,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 2,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 3,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 1,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 0,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 0,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 1,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 2,
+        "distance": "inconsistent"
+      }
+    ]
+  },
+  "d=5": {
+    "standard_distance": 5,
+    "mirrored_consistent": true,
+    "mirrored_distance": 3,
+    "samples": 12,
+    "n_cycle_inconsistent": 12,
+    "consistent_distances": [],
+    "min_consistent_distance": null,
+    "frac_consistent_below_d": null,
+    "records": [
+      {
+        "hooks": 8,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 8,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 3,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 6,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 4,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 7,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 6,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 5,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 2,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 3,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 4,
+        "distance": "inconsistent"
+      },
+      {
+        "hooks": 3,
+        "distance": "inconsistent"
+      }
+    ]
+  }
+}

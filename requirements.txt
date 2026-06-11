@@ -1,0 +1,11 @@
+# Core dependencies (required for all main-text results)
+numpy>=1.24
+matplotlib>=3.7
+networkx>=3.0
+
+# Optional dependencies
+# qiskit: ground-truth SABRE routing (Supplementary Table S3)
+# stim:   circuit-level distances (Supplementary Table S4)
+# Install these to reproduce the optional steps; run.sh skips them if absent.
+qiskit>=1.0
+stim>=1.12
