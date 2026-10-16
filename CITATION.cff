@@ -35,9 +35,7 @@ date-released: "2026-10-15"
 license: MIT
 license-url: "https://opensource.org/licenses/MIT"
 repository-code: "https://github.com/Guangyi-Leo/A-parity-obstruction-to-degree-optimal-syndrome-extraction-in-bivariate-bicycle-codes"
-doi: 10.5281/zenodo.XXXXXXXX   # PLACEHOLDER: replace with the DOI Zenodo mints
-                               # for this version, then update the same
-                               # placeholder in main.tex (Data availability)
+doi: 10.5281/zenodo.23407242
 keywords:
   - quantum error correction
   - bivariate bicycle codes
