@@ -1,0 +1,9 @@
+instance,D,solver,solver_version,status,time
+bb72,6,cadical,3.0.1 (git c607304),UNSAT,2.24
+bb90,6,cadical,3.0.1 (git c607304),UNSAT,1.96
+bb108,6,cadical,3.0.1 (git c607304),UNSAT,2.83
+bb144,6,cadical,3.0.1 (git c607304),UNSAT,3.46
+bb288,6,cadical,3.0.1 (git c607304),UNSAT,1.92
+bb360,6,cadical,3.0.1 (git c607304),UNSAT,2.96
+bb756,6,cadical,3.0.1 (git c607304),UNSAT,6.19
+sw73,6,cadical,3.0.1 (git c607304),UNSAT,287.68

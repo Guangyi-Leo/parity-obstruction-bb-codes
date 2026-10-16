@@ -1,0 +1,19 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{Lemma checks over every enumerated proper schedule. The right-hand columns give the number of individual sub-checks performed, so that a 100\,\% pass rate is not vacuous.}
+\label{tabS:lemmas}
+\begin{tabular}{lrrrrrrrrrrrrr}
+\toprule
+instance & \#sol. & L1 (\%) & L2 (\%) & L3 (\%) & L4 (\%) & L5 (\%) & L6 (\%) & L7 (\%) & L3 checks & L4 checks & L5 checks & L4 vac. & L7 appl. \\
+\midrule
+oe12 & 16 & 100 & 100 & 100 & 100 & 100 & 100 & 100 & 0 & 0 & 0 & 0 & 16 \\
+oe21 & 1 & 100 & 100 & 100 & 100 & 100 & 100 & 100 & 8 & 0 & 0 & 0 & 1 \\
+oe23 & 200 & 100 & 100 & 100 & 100 & 100 & 100 & 100 & 3,960 & 880 & 880 & 0 & 116 \\
+oe43 & 200 & 100 & 100 & 100 & 100 & 100 & 100 & 100 & 5,423 & 5,484 & 5,484 & 0 & 7 \\
+\textbf{all} & 417 & 100 & 100 & 100 & 100 & 100 & 100 & 100 & 9,391 & 6,364 & 6,364 & 0 & 140 \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize `L4 vac.' counts checks outside $E$ with no $R$-edge in layer $a$ or $b$, for which L4 has no content; `L7 appl.' counts solutions with every $x_i\in\{0,N\}$.\end{minipage}
+\end{table}

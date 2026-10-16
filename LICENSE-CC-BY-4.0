@@ -1,0 +1,18 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Guangyi Leo
+
+The data files, DRAT proofs, schedules, generated tables and figures in this
+archive -- everything under data/, certs/, certs_nosym/, schedules/,
+templates/, tables/ and figures/ except the .py sources -- are licensed under
+the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Code (all .py files, run.sh, Makefile) is licensed separately under the MIT
+licence; see LICENSE-MIT.

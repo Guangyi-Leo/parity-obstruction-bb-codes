@@ -1,0 +1,9 @@
+test,instance,n_layerings,n_agree,note
+T2,oe21,300,300,random valid depth-3 layerings; parity == F2 simulation; 0 proper
+T2,oe12,300,300,random valid depth-3 layerings; parity == F2 simulation; 0 proper
+T7,oe12/exactly_one,0,0,constraint family ablated: 48 edges without exactly one layer
+T7,oe12/vertex,0,0,constraint family ablated: a model violating vertex distinctness becomes reachable
+T7,oe12/pdef,0,0,constraint family ablated: a model violating properness becomes reachable
+T7,oe12/corner,0,0,constraint family ablated: a model violating properness becomes reachable
+T7,oe12/proper,0,0,constraint family ablated: bb72 depth 6 flips UNSAT -> SAT
+T7,oe12/symmetry,0,0,"constraint family ablated: oe21: 1 solutions with the clause, 2 without"

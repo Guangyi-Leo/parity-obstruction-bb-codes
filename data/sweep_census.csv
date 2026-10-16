@@ -1,0 +1,7 @@
+group,dims,N,aut_order,normalised_pairs,orbits,rep_SAT,rep_UNSAT,rep_capped,mixed_orbits
+Z4,[4],4,2,9,1,1,0,0,0
+Z6,[6],6,2,100,7,6,1,0,0
+Z8,[8],8,4,441,13,13,0,0,0
+Z2xZ2,"[2, 2]",4,6,9,1,1,0,0,0
+Z2xZ4,"[2, 4]",8,8,441,9,9,0,0,0
+Z2xZ2xZ2,"[2, 2, 2]",8,168,441,2,2,0,0,0

@@ -1,0 +1,7 @@
+instance,N,A,B,status,time,proof_bytes,verified,verify_time,solver,solver_version,timeout,n_targets,run
+h2_Z10_C1_1,10,"[[0], [2], [7]]","[[0], [1], [2]]",UNSAT,24.349,172775621,VERIFIED,28.933,kissat,4.0.4 (git 8af8e56),600.0,62,round8-partial
+h2_Z10_C1_2,10,"[[0], [2], [6]]","[[0], [2], [9]]",UNSAT,15.949,123142223,VERIFIED,18.433,kissat,4.0.4 (git 8af8e56),600.0,62,round8-partial
+h2_Z10_C1_3,10,"[[0], [2], [5]]","[[0], [8], [9]]",UNSAT,24.308,182997082,VERIFIED,27.523,kissat,4.0.4 (git 8af8e56),600.0,62,round8-partial
+h2_Z14_C1_0,14,"[[0], [6], [12]]","[[0], [12], [13]]",UNSAT,59.899,490286213,VERIFIED,72.868,kissat,4.0.4 (git 8af8e56),600.0,62,round8-partial
+h2_Z14_C1_1,14,"[[0], [2], [10]]","[[0], [5], [7]]",UNSAT,81.753,515705289,VERIFIED,110.495,kissat,4.0.4 (git 8af8e56),600.0,62,round8-partial
+h2_Z14_C1_2,14,"[[0], [8], [10]]","[[0], [1], [6]]",UNSAT,163.112,911329225,VERIFIED,215.067,kissat,4.0.4 (git 8af8e56),600.0,62,round8-partial

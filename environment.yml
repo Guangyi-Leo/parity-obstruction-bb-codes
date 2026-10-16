@@ -1,0 +1,27 @@
+# conda env create -f environment.yml && conda activate stab-qram
+#
+# The SAT solvers and the proof checker are NOT conda packages; they are built
+# from source by setup_solvers.sh at the exact versions below, which are the
+# versions every result in this archive was produced with.
+#
+#   kissat     4.0.4   github.com/arminbiere/kissat     git 8af8e56
+#   cadical    3.0.1   github.com/arminbiere/cadical    git c607304
+#   drat-trim          github.com/marijnheule/drat-trim git 2e3b2dc
+#
+# The three commit hashes are the checkouts these results were produced with,
+# read from build/*/.git in the working tree.  drat-trim publishes no version
+# string, so the commit is the only identifier.
+#
+name: stab-qram
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - numpy=1.26.4
+  - matplotlib=3.8.4
+  - fonttools=4.51.0
+  - networkx=3.3
+  - pip=24.0
+  - pip:
+      - python-sat==1.8.dev13
+      - pymupdf==1.28.2

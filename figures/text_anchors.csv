@@ -1,0 +1,65 @@
+number,source_contains,note
+1441,data/sweep.csv (row count),instances in the depth-6 sweep
+1440,S1:total_SAT,sweep instances SAT at depth 6
+28,derived:template_m2_n_qubits,physical qubits of the template's realising code
+250,derived:coverage_theorem_excluded,depth-6 instances excluded by a theorem
+16,derived:coverage_drat_verified,instances with a drat-trim verified certificate (any category)
+62,derived:coverage_solver_only_unsat,UNSAT by the solver and by no theorem
+6,derived:coverage_solver_unsat_certified,"of those, with a verified DRAT certificate"
+56,derived:coverage_solver_unsat_uncertified,and with no proof logged
+80,derived:coverage_capped_but_excluded,capped solver calls a theorem already excludes
+30,derived:coverage_open,open: no theorem applies and the solver capped
+664,derived:sharpness_map_total,instances with a recorded depth-6 outcome (the sharpness map)
+265,derived:c1_ord_d_even_total,class-C1 instances with ord(d) even
+262,derived:c1_even_sat_solver,class-C1 ord(d) even instances SAT by the solver
+3,derived:c1_even_sat_witness,and by a verified twisted witness
+333,derived:c1_ord_d_odd_total,class-C1 instances with ord(d) odd
+211,derived:c1_ord_d_odd_obstructed,"of those, obstructed by the mod-4 condition"
+122,derived:c1_ord_d_odd_unobstructed,and not obstructed
+24,figS6:MB_norev[bb72],"bb72 DRAT proof without the reversal clause, MB"
+468,"S2:admit[m=6,",eps-vectors with ord(eps(d)) odd admitting a schedule at m = 6
+669,data/r7_overlap_counts.csv (row count),instances whose overlap class was recomputed
+417,derived:periodicity_total,enumerated solutions carrying the lemma checks
+5,derived:periodicity_invariant,"of those, translation invariant"
+72,derived:periodicity_twisted,and twisted for a proper divisor
+340,derived:periodicity_other,with no proper period found
+300,derived:t2_layerings_per_instance,random valid layerings per instance in T2
+600,derived:t2_layerings_total,random valid layerings in T2 in total
+17,derived:crosscheck_rows,depth-6 CNFs re-decided by cadical and glucose
+16,derived:crosscheck_agree,"of those, decided identically by both"
+558,figS6:s[sw73],"kissat solve time for the Z6 instance, seconds"
+2.7,figS6:MB[sw73],"DRAT proof for the Z6 instance, GB"
+18,derived:nosym_proof_min_MB,"smallest DRAT proof without the reversal clause, MB"
+68,derived:nosym_proof_max_MB,"largest DRAT proof without the reversal clause, MB"
+1.4,derived:nosym_solve_min_s,"fastest refutation without the reversal clause, s"
+6.3,derived:nosym_solve_max_s,"slowest refutation without the reversal clause, s"
+14,derived:template_m2_N,order of G for the main-text m = 2 template
+6,derived:template_m2_k_logical,logical qubits of that code
+12931,derived:twisted_identity_cosets,cosets on which the twisted identity was checked
+289,derived:twisted_identity_witnesses,twisted witnesses carrying eps and m
+11412,derived:twisted_identity_template_keys,admissible template keys checked
+323,derived:b2_schedules_found,twisted schedules found outside class C1
+11,derived:b2_distinct_absM,distinct |M| values among them
+29,derived:b2_capped,"capped (instance, m) combinations"
+33,derived:sweep_census_orbits,"inequivalent instances among the 1,441 of the even-order sweep"
+27,data/sweep_odd.csv (row count),inequivalent instances in the odd-order sweep (orbit representatives)
+1830,derived:sweep_odd_pairs,"normalised (A,B) pairs covered by the 27 odd-order orbits"
+8496,derived:bravyi_invariant_depth7_schedules,"translation-invariant proper depth-7 schedules of the published cycle's group"
+41,derived:bravyi_invariant_depth7_orbits,"their orbits; Table I and the published cycle lie in different ones"
+648,derived:pullback_degenerate_q4,"of the q = 4 keys, those with a repeated entry"
+864,derived:pullback_keys_q4,"admissible keys at q = 4, all verified by pullback and F2 simulation"
+527,derived:template_reps_q512,"key representatives at q = 512 under the three symmetries"
+269,derived:template_reps_q256,"the same at q = 256"
+139,derived:template_reps_q128,"the same at q = 128"
+73,derived:template_reps_q64,"the same at q = 64"
+39,derived:template_reps_q32,"the same at q = 32; every one decided satisfiable without further assumptions"
+21,derived:template_reps_q16,"the same at q = 16"
+11,derived:template_reps_q8,"the same at q = 8"
+98,derived:cor3_hgp_n1,"physical qubits of the hypergraph product Corollary 3 obstructs"
+18,derived:cor3_hgp_k1,"its logical qubits"
+450,derived:cor3_hgp_n2,"physical qubits of the length-15 example"
+32,derived:cor3_hgp_k2,"its logical qubits"
+967,derived:odd_cert_seconds[Z45],"kissat refutation of the Z45 [[90,12,6]] instance, seconds"
+2.4,derived:odd_cert_GB[Z45],"its verified DRAT proof, GB"
+2.8,derived:odd_cert_GB[Z15xZ3],"the Z15xZ3 [[90,12,6]] proof, GB"
+4,derived:typed_parity_quarter_q16,"values of b at q = 16 whose schedule depends on c only through (c mod 2, floor(4c/q))"

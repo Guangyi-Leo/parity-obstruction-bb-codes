@@ -1,0 +1,68 @@
+[
+ {
+  "m": 2,
+  "available": true,
+  "n_keys": 144,
+  "n_admit": 72,
+  "ord_even_keys": 72,
+  "ord_even_admit": 72,
+  "sufficiency_holds": true,
+  "epsd0_admit": 0,
+  "M_odd_admit": 0
+ },
+ {
+  "m": 3,
+  "available": true,
+  "n_keys": 486,
+  "n_admit": 0,
+  "ord_even_keys": 0,
+  "ord_even_admit": 0,
+  "sufficiency_holds": true,
+  "epsd0_admit": 0,
+  "M_odd_admit": 0
+ },
+ {
+  "m": 4,
+  "available": true,
+  "n_keys": 1152,
+  "n_admit": 864,
+  "ord_even_keys": 864,
+  "ord_even_admit": 864,
+  "sufficiency_holds": true,
+  "epsd0_admit": 0,
+  "M_odd_admit": 0
+ },
+ {
+  "m": 5,
+  "available": true,
+  "n_keys": 2250,
+  "n_admit": 0,
+  "ord_even_keys": 0,
+  "ord_even_admit": 0,
+  "sufficiency_holds": true,
+  "epsd0_admit": 0,
+  "M_odd_admit": 0
+ },
+ {
+  "m": 6,
+  "available": true,
+  "n_keys": 3888,
+  "n_admit": 2412,
+  "ord_even_keys": 1944,
+  "ord_even_admit": 1944,
+  "sufficiency_holds": true,
+  "epsd0_admit": 0,
+  "M_odd_admit": 0
+ },
+ {
+  "m": 8,
+  "available": true,
+  "n_keys": 9216,
+  "n_admit": 8064,
+  "ord_even_keys": 8064,
+  "ord_even_admit": 8064,
+  "sufficiency_holds": true,
+  "epsd0_admit": 0,
+  "M_odd_admit": 0
+ }
+]

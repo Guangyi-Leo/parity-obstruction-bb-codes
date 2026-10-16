@@ -1,0 +1,546 @@
+{
+ "n_rows": 598,
+ "n_decided": 480,
+ "status": {
+  "SAT": 287,
+  "UNSAT": 193,
+  "TIMEOUT": 118
+ },
+ "single": [
+  {
+   "keys": [
+    "d_canon"
+   ],
+   "separates": false,
+   "n_values": 16,
+   "max_cell": 82,
+   "singleton_cells": 1,
+   "frac_singleton": 0.062,
+   "n_mixed_values": 11
+  },
+  {
+   "keys": [
+    "ord_d"
+   ],
+   "separates": false,
+   "n_values": 26,
+   "max_cell": 37,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "index_N_over_ord_d"
+   ],
+   "separates": false,
+   "n_values": 10,
+   "max_cell": 273,
+   "singleton_cells": 1,
+   "frac_singleton": 0.1,
+   "n_mixed_values": 7
+  },
+  {
+   "keys": [
+    "d_in_2G"
+   ],
+   "separates": false,
+   "n_values": 2,
+   "max_cell": 288,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 1
+  },
+  {
+   "keys": [
+    "ord_d_mod4"
+   ],
+   "separates": false,
+   "n_values": 4,
+   "max_cell": 152,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 2
+  },
+  {
+   "keys": [
+    "ord_delta0"
+   ],
+   "separates": false,
+   "n_values": 28,
+   "max_cell": 121,
+   "singleton_cells": 2,
+   "frac_singleton": 0.071,
+   "n_mixed_values": 14
+  },
+  {
+   "keys": [
+    "n_components"
+   ],
+   "separates": false,
+   "n_values": 2,
+   "max_cell": 470,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 2
+  },
+  {
+   "keys": [
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 19,
+   "max_cell": 38,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 6
+  },
+  {
+   "keys": [
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 2,
+   "max_cell": 349,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 1
+  }
+ ],
+ "pairs": [
+  {
+   "keys": [
+    "d_canon",
+    "ord_d"
+   ],
+   "separates": false,
+   "n_values": 136,
+   "max_cell": 17,
+   "singleton_cells": 30,
+   "frac_singleton": 0.221,
+   "n_mixed_values": 7
+  },
+  {
+   "keys": [
+    "d_canon",
+    "index_N_over_ord_d"
+   ],
+   "separates": false,
+   "n_values": 32,
+   "max_cell": 69,
+   "singleton_cells": 3,
+   "frac_singleton": 0.094,
+   "n_mixed_values": 16
+  },
+  {
+   "keys": [
+    "d_canon",
+    "d_in_2G"
+   ],
+   "separates": false,
+   "n_values": 22,
+   "max_cell": 82,
+   "singleton_cells": 2,
+   "frac_singleton": 0.091,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "d_canon",
+    "ord_d_mod4"
+   ],
+   "separates": false,
+   "n_values": 47,
+   "max_cell": 31,
+   "singleton_cells": 5,
+   "frac_singleton": 0.106,
+   "n_mixed_values": 7
+  },
+  {
+   "keys": [
+    "d_canon",
+    "ord_delta0"
+   ],
+   "separates": false,
+   "n_values": 185,
+   "max_cell": 19,
+   "singleton_cells": 91,
+   "frac_singleton": 0.492,
+   "n_mixed_values": 28
+  },
+  {
+   "keys": [
+    "d_canon",
+    "n_components"
+   ],
+   "separates": false,
+   "n_values": 22,
+   "max_cell": 81,
+   "singleton_cells": 6,
+   "frac_singleton": 0.273,
+   "n_mixed_values": 12
+  },
+  {
+   "keys": [
+    "d_canon",
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 143,
+   "max_cell": 17,
+   "singleton_cells": 36,
+   "frac_singleton": 0.252,
+   "n_mixed_values": 7
+  },
+  {
+   "keys": [
+    "d_canon",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 27,
+   "max_cell": 69,
+   "singleton_cells": 3,
+   "frac_singleton": 0.111,
+   "n_mixed_values": 4
+  },
+  {
+   "keys": [
+    "ord_d",
+    "index_N_over_ord_d"
+   ],
+   "separates": false,
+   "n_values": 57,
+   "max_cell": 30,
+   "singleton_cells": 6,
+   "frac_singleton": 0.105,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "ord_d",
+    "d_in_2G"
+   ],
+   "separates": false,
+   "n_values": 34,
+   "max_cell": 37,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "ord_d",
+    "ord_d_mod4"
+   ],
+   "separates": false,
+   "n_values": 26,
+   "max_cell": 37,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "ord_d",
+    "ord_delta0"
+   ],
+   "separates": false,
+   "n_values": 136,
+   "max_cell": 24,
+   "singleton_cells": 50,
+   "frac_singleton": 0.368,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "ord_d",
+    "n_components"
+   ],
+   "separates": false,
+   "n_values": 33,
+   "max_cell": 37,
+   "singleton_cells": 4,
+   "frac_singleton": 0.121,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "ord_d",
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 57,
+   "max_cell": 31,
+   "singleton_cells": 8,
+   "frac_singleton": 0.14,
+   "n_mixed_values": 4
+  },
+  {
+   "keys": [
+    "ord_d",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 31,
+   "max_cell": 31,
+   "singleton_cells": 1,
+   "frac_singleton": 0.032,
+   "n_mixed_values": 4
+  },
+  {
+   "keys": [
+    "index_N_over_ord_d",
+    "d_in_2G"
+   ],
+   "separates": false,
+   "n_values": 14,
+   "max_cell": 158,
+   "singleton_cells": 2,
+   "frac_singleton": 0.143,
+   "n_mixed_values": 3
+  },
+  {
+   "keys": [
+    "index_N_over_ord_d",
+    "ord_d_mod4"
+   ],
+   "separates": false,
+   "n_values": 28,
+   "max_cell": 95,
+   "singleton_cells": 5,
+   "frac_singleton": 0.179,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "index_N_over_ord_d",
+    "ord_delta0"
+   ],
+   "separates": false,
+   "n_values": 94,
+   "max_cell": 74,
+   "singleton_cells": 30,
+   "frac_singleton": 0.319,
+   "n_mixed_values": 21
+  },
+  {
+   "keys": [
+    "index_N_over_ord_d",
+    "n_components"
+   ],
+   "separates": false,
+   "n_values": 13,
+   "max_cell": 273,
+   "singleton_cells": 2,
+   "frac_singleton": 0.154,
+   "n_mixed_values": 9
+  },
+  {
+   "keys": [
+    "index_N_over_ord_d",
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 60,
+   "max_cell": 30,
+   "singleton_cells": 9,
+   "frac_singleton": 0.15,
+   "n_mixed_values": 5
+  },
+  {
+   "keys": [
+    "index_N_over_ord_d",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 15,
+   "max_cell": 158,
+   "singleton_cells": 3,
+   "frac_singleton": 0.2,
+   "n_mixed_values": 3
+  },
+  {
+   "keys": [
+    "d_in_2G",
+    "ord_d_mod4"
+   ],
+   "separates": false,
+   "n_values": 6,
+   "max_cell": 118,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 2
+  },
+  {
+   "keys": [
+    "d_in_2G",
+    "ord_delta0"
+   ],
+   "separates": false,
+   "n_values": 50,
+   "max_cell": 68,
+   "singleton_cells": 3,
+   "frac_singleton": 0.06,
+   "n_mixed_values": 10
+  },
+  {
+   "keys": [
+    "d_in_2G",
+    "n_components"
+   ],
+   "separates": false,
+   "n_values": 3,
+   "max_cell": 278,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 2
+  },
+  {
+   "keys": [
+    "d_in_2G",
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 31,
+   "max_cell": 31,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 4
+  },
+  {
+   "keys": [
+    "d_in_2G",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 3,
+   "max_cell": 192,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 1
+  },
+  {
+   "keys": [
+    "ord_d_mod4",
+    "ord_delta0"
+   ],
+   "separates": false,
+   "n_values": 70,
+   "max_cell": 36,
+   "singleton_cells": 16,
+   "frac_singleton": 0.229,
+   "n_mixed_values": 6
+  },
+  {
+   "keys": [
+    "ord_d_mod4",
+    "n_components"
+   ],
+   "separates": false,
+   "n_values": 7,
+   "max_cell": 148,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 3
+  },
+  {
+   "keys": [
+    "ord_d_mod4",
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 37,
+   "max_cell": 37,
+   "singleton_cells": 1,
+   "frac_singleton": 0.027,
+   "n_mixed_values": 4
+  },
+  {
+   "keys": [
+    "ord_d_mod4",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 6,
+   "max_cell": 152,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 2
+  },
+  {
+   "keys": [
+    "ord_delta0",
+    "n_components"
+   ],
+   "separates": false,
+   "n_values": 33,
+   "max_cell": 116,
+   "singleton_cells": 5,
+   "frac_singleton": 0.152,
+   "n_mixed_values": 15
+  },
+  {
+   "keys": [
+    "ord_delta0",
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 82,
+   "max_cell": 24,
+   "singleton_cells": 15,
+   "frac_singleton": 0.183,
+   "n_mixed_values": 14
+  },
+  {
+   "keys": [
+    "ord_delta0",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 34,
+   "max_cell": 87,
+   "singleton_cells": 2,
+   "frac_singleton": 0.059,
+   "n_mixed_values": 11
+  },
+  {
+   "keys": [
+    "n_components",
+    "min_component_n"
+   ],
+   "separates": false,
+   "n_values": 23,
+   "max_cell": 34,
+   "singleton_cells": 1,
+   "frac_singleton": 0.043,
+   "n_mixed_values": 7
+  },
+  {
+   "keys": [
+    "n_components",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 4,
+   "max_cell": 340,
+   "singleton_cells": 1,
+   "frac_singleton": 0.25,
+   "n_mixed_values": 2
+  },
+  {
+   "keys": [
+    "min_component_n",
+    "theorem1_obstructed"
+   ],
+   "separates": false,
+   "n_values": 19,
+   "max_cell": 38,
+   "singleton_cells": 0,
+   "frac_singleton": 0.0,
+   "n_mixed_values": 6
+  }
+ ],
+ "notes": [],
+ "non_vacuous": []
+}

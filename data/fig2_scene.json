@@ -1,0 +1,289 @@
+{
+ "reference": {
+  "instance": "bb72",
+  "N": 36,
+  "k": 3,
+  "l": 3,
+  "Delta": 6,
+  "distinct_sums": true,
+  "source": "schedules/bb72_d7_inv.json"
+ },
+ "support": {
+  "Delta": 6,
+  "a": 2,
+  "b": 5,
+  "a_plus_b": 7,
+  "text": "a + b = \u0394 + 1 = 7",
+  "a_counts": {
+   "1": 319,
+   "2": 98
+  },
+  "note": "a = 2 drawn; a = 1 would tint the whole stack",
+  "source": "data/lemma_checks.csv"
+ },
+ "rigidity": {
+  "n_pairs": 3,
+  "pairs": [
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    4
+   ],
+   [
+    5,
+    6
+   ]
+  ]
+ },
+ "parity": {
+  "kl": 9,
+  "odd": true,
+  "text": "\u03a3 \u03b3(i) = k\u2113 = 9"
+ },
+ "corroboration": {
+  "rows": 417,
+  "a_plus_b_checked": 417,
+  "a_plus_b_ok": 417,
+  "F_sum_checked": 140,
+  "F_sum_ok": 140,
+  "source": "data/lemma_checks.csv"
+ },
+ "collision": {
+  "instance": "h2_Z10_C1_0",
+  "N": 10,
+  "D": 6,
+  "n_four_qubit_overlaps": 10,
+  "n_two_qubit_overlaps": 70,
+  "corners": [
+   {
+    "side": "L",
+    "qubit": [
+     0
+    ],
+    "o": 1,
+    "x_layer": 1,
+    "z_layer": 5
+   },
+   {
+    "side": "R",
+    "qubit": [
+     0
+    ],
+    "o": 0,
+    "x_layer": 5,
+    "z_layer": 4
+   },
+   {
+    "side": "L",
+    "qubit": [
+     9
+    ],
+    "o": 0,
+    "x_layer": 3,
+    "z_layer": 2
+   },
+   {
+    "side": "R",
+    "qubit": [
+     1
+    ],
+    "o": 1,
+    "x_layer": 4,
+    "z_layer": 6
+   }
+  ],
+  "parity": 0,
+  "sum_str": "1 + 0 + 0 + 1",
+  "source": "schedules/h2_Z10_C1_0_d6.json"
+ },
+ "flow": {
+  "pills": [
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "gamma": [
+   3,
+   2,
+   2,
+   1,
+   1,
+   0
+  ],
+  "gamma_total": 9,
+  "branch_narrow": {
+   "a": 3,
+   "b": 4,
+   "n_layers": 2,
+   "n_edges": 3,
+   "text": "no room: 3 edges, 2 layers",
+   "derivable": true
+  },
+  "branch_count": {
+   "a": 2,
+   "b": 5,
+   "F_L": "F_L = 4 + [c = 3]",
+   "F_R": "F_R = 4 + [c = 4]",
+   "derivable": false,
+   "source": "manuscript text (Round 7 brief); not derivable from this repository"
+  },
+  "template": [
+   {
+    "cls": 0,
+    "label": 1,
+    "etype": "X,L",
+    "layer": 3
+   },
+   {
+    "cls": 0,
+    "label": 2,
+    "etype": "X,L",
+    "layer": 6
+   },
+   {
+    "cls": 0,
+    "label": 3,
+    "etype": "X,L",
+    "layer": 1
+   },
+   {
+    "cls": 0,
+    "label": 1,
+    "etype": "X,R",
+    "layer": 4
+   },
+   {
+    "cls": 0,
+    "label": 2,
+    "etype": "X,R",
+    "layer": 2
+   },
+   {
+    "cls": 0,
+    "label": 3,
+    "etype": "X,R",
+    "layer": 5
+   },
+   {
+    "cls": 0,
+    "label": 1,
+    "etype": "Z,L",
+    "layer": 5
+   },
+   {
+    "cls": 0,
+    "label": 2,
+    "etype": "Z,L",
+    "layer": 3
+   },
+   {
+    "cls": 0,
+    "label": 3,
+    "etype": "Z,L",
+    "layer": 2
+   },
+   {
+    "cls": 0,
+    "label": 1,
+    "etype": "Z,R",
+    "layer": 1
+   },
+   {
+    "cls": 0,
+    "label": 2,
+    "etype": "Z,R",
+    "layer": 4
+   },
+   {
+    "cls": 0,
+    "label": 3,
+    "etype": "Z,R",
+    "layer": 6
+   },
+   {
+    "cls": 1,
+    "label": 1,
+    "etype": "X,L",
+    "layer": 5
+   },
+   {
+    "cls": 1,
+    "label": 2,
+    "etype": "X,L",
+    "layer": 4
+   },
+   {
+    "cls": 1,
+    "label": 3,
+    "etype": "X,L",
+    "layer": 2
+   },
+   {
+    "cls": 1,
+    "label": 1,
+    "etype": "X,R",
+    "layer": 1
+   },
+   {
+    "cls": 1,
+    "label": 2,
+    "etype": "X,R",
+    "layer": 3
+   },
+   {
+    "cls": 1,
+    "label": 3,
+    "etype": "X,R",
+    "layer": 6
+   },
+   {
+    "cls": 1,
+    "label": 1,
+    "etype": "Z,L",
+    "layer": 4
+   },
+   {
+    "cls": 1,
+    "label": 2,
+    "etype": "Z,L",
+    "layer": 6
+   },
+   {
+    "cls": 1,
+    "label": 3,
+    "etype": "Z,L",
+    "layer": 1
+   },
+   {
+    "cls": 1,
+    "label": 1,
+    "etype": "Z,R",
+    "layer": 3
+   },
+   {
+    "cls": 1,
+    "label": 2,
+    "etype": "Z,R",
+    "layer": 2
+   },
+   {
+    "cls": 1,
+    "label": 3,
+    "etype": "Z,R",
+    "layer": 5
+   }
+  ]
+ }
+}

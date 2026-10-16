@@ -1,0 +1,49 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{Sharpness at larger $N$ (H2): depth-6 outcome for random $(A,B)$ with $k=l=3$, grouped by group order and by overlap class. Classes are defined by the integer matrix $P = H_XH_Z^{\mathsf T}$, with $n_{2c} = \#\{(x,z): P[x,z]=2c\}$: \textbf{D} no 4-qubit overlaps ($n_4=n_6=0$); \textbf{C1} one collision orbit ($N$ four-qubit overlaps: $n_4=N$, $n_6=0$); \textbf{C2} two collision orbits or one triple orbit ($n_4=2N,n_6=0$ or $n_4=0,n_6=N$); \textbf{SG} subgroup type ($A=B$ a subgroup, components decouple). Statuses here are the raw solver record; Table~\ref{tab:c1final} gives the class-C1 view after timeouts settled by a verified $\varepsilon$-twisted witness are counted as SAT.}
+\label{tabS:sharpness}
+\begin{tabular}{rlrrrrrr}
+\toprule
+$N$ & overlap class & \#inst. & \#SAT & \#UNSAT & \#timeout & mean $t$ (s) & \#Thm.\,1 \\
+\midrule
+10 & D & 4 & 0 & 4 & 0 & 4.7 & 0 \\
+10 & C1 & 34 & 10 & 24 & 0 & 25.5 & 0 \\
+10 & C2 & 4 & 4 & 0 & 0 & 10.3 & 0 \\
+11 & C1 & 30 & 0 & 30 & 0 & 74.4 & 30 \\
+12 & D & 4 & 0 & 4 & 0 & 4.2 & 0 \\
+12 & C1 & 34 & 33 & 1 & 0 & 8.2 & 0 \\
+12 & C2 & 4 & 4 & 0 & 0 & 1.9 & 0 \\
+12 & SG & 1 & 0 & 1 & 0 & 452.8 & 1 \\
+13 & C1 & 30 & 0 & 30 & 0 & 160.7 & 30 \\
+14 & D & 4 & 0 & 4 & 0 & 3.6 & 0 \\
+14 & C1 & 34 & 13 & 21 & 0 & 127.1 & 0 \\
+14 & C2 & 4 & 4 & 0 & 0 & 59.7 & 0 \\
+15 & C1 & 30 & 0 & 29 & 1 & 268.6 & 30 \\
+16 & D & 4 & 0 & 4 & 0 & 3.2 & 0 \\
+16 & C1 & 34 & 34 & 0 & 0 & 9.3 & 0 \\
+16 & C2 & 4 & 4 & 0 & 0 & 6.4 & 0 \\
+17 & C1 & 30 & 0 & 18 & 12 & 429.9 & 30 \\
+18 & D & 4 & 0 & 4 & 0 & 4.0 & 0 \\
+18 & C1 & 34 & 24 & 6 & 4 & 159.1 & 0 \\
+18 & C2 & 4 & 3 & 1 & 0 & 194.7 & 1 \\
+18 & SG & 1 & 0 & 1 & 0 & 481.1 & 1 \\
+19 & C1 & 30 & 0 & 14 & 16 & 480.1 & 30 \\
+20 & D & 4 & 0 & 4 & 0 & 3.6 & 0 \\
+20 & C1 & 34 & 25 & 5 & 4 & 157.7 & 0 \\
+20 & C2 & 4 & 4 & 0 & 0 & 61.5 & 0 \\
+21 & C1 & 30 & 0 & 5 & 25 & 584.0 & 30 \\
+22 & C1 & 30 & 20 & 4 & 6 & 195.7 & 1 \\
+23 & C1 & 30 & 0 & 4 & 26 & 584.7 & 30 \\
+24 & D & 4 & 0 & 4 & 0 & 4.3 & 0 \\
+24 & C1 & 34 & 34 & 0 & 0 & 34.9 & 0 \\
+24 & C2 & 4 & 4 & 0 & 0 & 23.6 & 0 \\
+28 & C1 & 30 & 25 & 2 & 3 & 117.8 & 0 \\
+30 & C1 & 30 & 18 & 0 & 12 & 303.8 & 0 \\
+32 & C1 & 30 & 28 & 0 & 2 & 141.1 & 0 \\
+36 & C1 & 30 & 23 & 0 & 7 & 239.3 & 0 \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize `\#Thm.\,1' counts instances carrying the componentwise parity obstruction. Every SAT model was re-checked by $\mathbb{F}_2$ simulation.\end{minipage}
+\end{table}

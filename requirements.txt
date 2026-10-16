@@ -1,11 +1,11 @@
-# Core dependencies (required for all main-text results)
+# pip install -r requirements.txt
+#
+# The SAT solvers and the proof checker are not Python packages; build them
+# with setup_solvers.sh at the versions environment.yml pins.
 numpy>=1.24
 matplotlib>=3.7
+fonttools>=4.40
 networkx>=3.0
-
-# Optional dependencies
-# qiskit: ground-truth SABRE routing (Supplementary Table S3)
-# stim:   circuit-level distances (Supplementary Table S4)
-# Install these to reproduce the optional steps; run.sh skips them if absent.
-qiskit>=1.0
-stim>=1.12
+python-sat>=1.8
+pymupdf>=1.24
+pytest>=7

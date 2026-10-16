@@ -1,0 +1,20 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{The abelian groups covered by the depth-6 sweep, with the depth-6 outcome and the range of the largest sum multiplicity.}
+\label{tabS:groups}
+\begin{tabular}{llrrrrcc}
+\toprule
+group & dims & $|G|$ & instances & SAT & UNSAT & $\max_\delta|P(\delta)|$ & distinct sums \\
+\midrule
+Z2$\times$Z2 & [2, 2] & 4 & 9 & 9 & 0 & 3--3 & no \\
+Z4 & [4] & 4 & 9 & 9 & 0 & 3--3 & no \\
+Z6 & [6] & 6 & 100 & 99 & 1 & 2--3 & no \\
+Z2$\times$Z2$\times$Z2 & [2, 2, 2] & 8 & 441 & 441 & 0 & 2--3 & no \\
+Z2$\times$Z4 & [2, 4] & 8 & 441 & 441 & 0 & 2--3 & no \\
+Z8 & [8] & 8 & 441 & 441 & 0 & 2--3 & no \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize Every sweep group has $|G| \leq 8 < 9 = kl$, so none of them has distinct sums and the overlap hypothesis of the main theorem never applies to the sweep.\end{minipage}
+\end{table}

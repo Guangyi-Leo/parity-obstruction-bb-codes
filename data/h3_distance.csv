@@ -1,0 +1,12 @@
+instance,N,class,status,selection,n_qubits,k_logical,dX_upper,dZ_upper,d_upper,trials,time_s,method,reason
+h2_Z16_C1_0,16,C1,SAT,specified,32,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z16_C1_1,16,C1,SAT,specified,32,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z16_C1_2,16,C1,SAT,specified,32,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z16_C1_3,16,C1,SAT,specified,32,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z20_C1_1,20,C1,SAT,specified,40,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z20_C1_2,20,C1,SAT,specified,40,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z24_C1_0,24,C1,SAT,specified,48,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z24_C1_1,24,C1,SAT,specified,48,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z24_C1_2,24,C1,SAT,specified,48,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z24_C1_3,24,C1,SAT,specified,48,0,,,,0,0.0,randomised ISD (upper bound),"k=0: the code encodes no logical qubits, so there is no logical operator and no distance"
+h2_Z24_C2_0,24,C2,SAT,supplementary,48,4,4,4,4,2000,0.53,randomised ISD (upper bound),

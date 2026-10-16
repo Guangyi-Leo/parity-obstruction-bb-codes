@@ -1,0 +1,670 @@
+instance,family,N,n2,n4,n6,max_overlap_entry,mult_histogram,distinct_sums,is_subgroup,klass,label,n4_plus_3n6,pair_rhs,n4_plus_2n6,stated_identity_holds
+bb72,named,36,324,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+bb90,named,45,405,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+bb108,named,54,486,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+bb144,named,72,648,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+bb288,named,144,1296,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+bb360,named,180,1620,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+bb756,named,378,3402,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+oe23,named,12,72,0,0,2,"{""1"": 6}",True,False,D,no 4-qubit overlaps,0,0,0,True
+oe21,named,8,16,0,0,2,"{""1"": 2}",True,False,D,no 4-qubit overlaps,0,0,0,True
+oe43,named,16,192,0,0,2,"{""1"": 12}",True,False,D,no 4-qubit overlaps,0,0,0,True
+oe12,named,8,16,0,0,2,"{""1"": 2}",True,False,D,no 4-qubit overlaps,0,0,0,True
+k5,named,26,650,0,0,2,"{""1"": 25}",True,False,D,no 4-qubit overlaps,0,0,0,True
+sw73,named,6,0,0,18,6,"{""3"": 3}",False,True,SG,subgroup type,54,54,36,False
+h2_Z10_C1_0,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h2_Z10_C1_1,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h2_Z10_C1_2,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h2_Z10_C1_3,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_0,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_1,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_10,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_11,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_12,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_13,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_14,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_15,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_16,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_17,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_18,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_19,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_2,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_20,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_21,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_22,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_23,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_24,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_25,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_26,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_27,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_28,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_29,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_3,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_4,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_5,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_6,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_7,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_8,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h4_Z10_C1_9,H2/H4,10,70,10,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),10,10,10,True
+h2_Z10_C2_0,H2/H4,10,50,20,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,20,20,20,True
+h2_Z10_C2_1,H2/H4,10,50,20,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,20,20,20,True
+h2_Z10_C2_2,H2/H4,10,60,0,10,6,"{""1"": 6, ""3"": 1}",False,False,C2,two collision orbits or one triple orbit,30,30,20,False
+h2_Z10_C2_3,H2/H4,10,50,20,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,20,20,20,True
+h2_Z10_D_0,H2/H4,10,90,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z10_D_1,H2/H4,10,90,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z10_D_2,H2/H4,10,90,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z10_D_3,H2/H4,10,90,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h4_Z11_C1_0,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_1,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_10,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_11,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_12,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_13,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_14,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_15,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_16,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_17,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_18,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_19,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_2,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_20,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_21,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_22,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_23,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_24,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_25,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_26,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_27,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_28,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_29,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_3,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_4,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_5,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_6,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_7,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_8,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h4_Z11_C1_9,H2/H4,11,77,11,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),11,11,11,True
+h2_Z12_C1_0,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h2_Z12_C1_1,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h2_Z12_C1_2,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h2_Z12_C1_3,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_0,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_1,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_10,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_11,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_12,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_13,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_14,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_15,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_16,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_17,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_18,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_19,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_2,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_20,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_21,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_22,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_23,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_24,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_25,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_26,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_27,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_28,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_29,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_3,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_4,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_5,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_6,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_7,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_8,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h4_Z12_C1_9,H2/H4,12,84,12,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),12,12,12,True
+h2_Z12_C2_0,H2/H4,12,60,24,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,24,24,24,True
+h2_Z12_C2_1,H2/H4,12,60,24,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,24,24,24,True
+h2_Z12_C2_2,H2/H4,12,60,24,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,24,24,24,True
+h2_Z12_C2_3,H2/H4,12,60,24,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,24,24,24,True
+h2_Z12_D_0,H2/H4,12,108,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z12_D_1,H2/H4,12,108,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z12_D_2,H2/H4,12,108,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z12_D_3,H2/H4,12,108,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z12_subgroup,H2/H4,12,0,0,36,6,"{""3"": 3}",False,True,SG,subgroup type,108,108,72,False
+h4_Z13_C1_0,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_1,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_10,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_11,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_12,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_13,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_14,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_15,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_16,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_17,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_18,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_19,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_2,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_20,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_21,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_22,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_23,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_24,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_25,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_26,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_27,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_28,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_29,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_3,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_4,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_5,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_6,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_7,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_8,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h4_Z13_C1_9,H2/H4,13,91,13,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),13,13,13,True
+h2_Z14_C1_0,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h2_Z14_C1_1,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h2_Z14_C1_2,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h2_Z14_C1_3,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_0,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_1,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_10,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_11,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_12,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_13,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_14,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_15,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_16,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_17,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_18,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_19,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_2,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_20,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_21,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_22,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_23,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_24,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_25,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_26,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_27,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_28,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_29,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_3,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_4,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_5,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_6,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_7,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_8,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h4_Z14_C1_9,H2/H4,14,98,14,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),14,14,14,True
+h2_Z14_C2_0,H2/H4,14,70,28,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,28,28,28,True
+h2_Z14_C2_1,H2/H4,14,70,28,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,28,28,28,True
+h2_Z14_C2_2,H2/H4,14,70,28,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,28,28,28,True
+h2_Z14_C2_3,H2/H4,14,70,28,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,28,28,28,True
+h2_Z14_D_0,H2/H4,14,126,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z14_D_1,H2/H4,14,126,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z14_D_2,H2/H4,14,126,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z14_D_3,H2/H4,14,126,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h4_Z15_C1_0,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_1,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_10,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_11,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_12,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_13,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_14,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_15,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_16,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_17,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_18,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_19,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_2,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_20,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_21,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_22,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_23,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_24,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_25,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_26,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_27,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_28,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_29,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_3,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_4,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_5,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_6,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_7,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_8,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h4_Z15_C1_9,H2/H4,15,105,15,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),15,15,15,True
+h2_Z16_C1_0,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h2_Z16_C1_1,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h2_Z16_C1_2,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h2_Z16_C1_3,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_0,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_1,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_10,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_11,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_12,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_13,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_14,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_15,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_16,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_17,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_18,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_19,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_2,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_20,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_21,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_22,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_23,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_24,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_25,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_26,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_27,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_28,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_29,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_3,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_4,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_5,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_6,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_7,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_8,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h4_Z16_C1_9,H2/H4,16,112,16,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),16,16,16,True
+h2_Z16_C2_0,H2/H4,16,80,32,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,32,32,32,True
+h2_Z16_C2_1,H2/H4,16,80,32,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,32,32,32,True
+h2_Z16_C2_2,H2/H4,16,80,32,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,32,32,32,True
+h2_Z16_C2_3,H2/H4,16,80,32,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,32,32,32,True
+h2_Z16_D_0,H2/H4,16,144,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z16_D_1,H2/H4,16,144,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z16_D_2,H2/H4,16,144,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z16_D_3,H2/H4,16,144,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h4_Z17_C1_0,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_1,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_10,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_11,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_12,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_13,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_14,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_15,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_16,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_17,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_18,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_19,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_2,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_20,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_21,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_22,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_23,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_24,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_25,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_26,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_27,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_28,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_29,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_3,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_4,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_5,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_6,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_7,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_8,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h4_Z17_C1_9,H2/H4,17,119,17,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),17,17,17,True
+h2_Z18_C1_0,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h2_Z18_C1_1,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h2_Z18_C1_2,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h2_Z18_C1_3,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_0,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_1,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_10,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_11,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_12,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_13,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_14,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_15,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_16,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_17,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_18,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_19,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_2,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_20,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_21,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_22,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_23,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_24,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_25,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_26,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_27,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_28,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_29,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_3,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_4,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_5,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_6,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_7,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_8,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h4_Z18_C1_9,H2/H4,18,126,18,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),18,18,18,True
+h2_Z18_C2_0,H2/H4,18,90,36,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,36,36,36,True
+h2_Z18_C2_1,H2/H4,18,90,36,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,36,36,36,True
+h2_Z18_C2_2,H2/H4,18,90,36,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,36,36,36,True
+h2_Z18_C2_3,H2/H4,18,90,36,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,36,36,36,True
+h2_Z18_D_0,H2/H4,18,162,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z18_D_1,H2/H4,18,162,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z18_D_2,H2/H4,18,162,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z18_D_3,H2/H4,18,162,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z18_subgroup,H2/H4,18,0,0,54,6,"{""3"": 3}",False,True,SG,subgroup type,162,162,108,False
+h4_Z19_C1_0,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_1,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_10,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_11,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_12,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_13,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_14,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_15,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_16,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_17,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_18,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_19,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_2,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_20,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_21,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_22,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_23,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_24,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_25,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_26,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_27,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_28,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_29,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_3,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_4,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_5,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_6,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_7,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_8,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h4_Z19_C1_9,H2/H4,19,133,19,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),19,19,19,True
+h2_Z20_C1_0,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h2_Z20_C1_1,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h2_Z20_C1_2,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h2_Z20_C1_3,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_0,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_1,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_10,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_11,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_12,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_13,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_14,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_15,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_16,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_17,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_18,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_19,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_2,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_20,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_21,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_22,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_23,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_24,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_25,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_26,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_27,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_28,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_29,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_3,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_4,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_5,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_6,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_7,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_8,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h4_Z20_C1_9,H2/H4,20,140,20,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),20,20,20,True
+h2_Z20_C2_0,H2/H4,20,100,40,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,40,40,40,True
+h2_Z20_C2_1,H2/H4,20,100,40,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,40,40,40,True
+h2_Z20_C2_2,H2/H4,20,100,40,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,40,40,40,True
+h2_Z20_C2_3,H2/H4,20,100,40,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,40,40,40,True
+h2_Z20_D_0,H2/H4,20,180,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z20_D_1,H2/H4,20,180,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z20_D_2,H2/H4,20,180,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z20_D_3,H2/H4,20,180,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h4_Z21_C1_0,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_1,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_10,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_11,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_12,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_13,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_14,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_15,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_16,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_17,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_18,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_19,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_2,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_20,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_21,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_22,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_23,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_24,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_25,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_26,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_27,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_28,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_29,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_3,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_4,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_5,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_6,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_7,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_8,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z21_C1_9,H2/H4,21,147,21,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),21,21,21,True
+h4_Z22_C1_0,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_1,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_10,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_11,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_12,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_13,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_14,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_15,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_16,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_17,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_18,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_19,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_2,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_20,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_21,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_22,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_23,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_24,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_25,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_26,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_27,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_28,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_29,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_3,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_4,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_5,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_6,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_7,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_8,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z22_C1_9,H2/H4,22,154,22,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),22,22,22,True
+h4_Z23_C1_0,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_1,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_10,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_11,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_12,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_13,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_14,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_15,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_16,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_17,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_18,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_19,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_2,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_20,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_21,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_22,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_23,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_24,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_25,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_26,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_27,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_28,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_29,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_3,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_4,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_5,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_6,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_7,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_8,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h4_Z23_C1_9,H2/H4,23,161,23,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),23,23,23,True
+h2_Z24_C1_0,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h2_Z24_C1_1,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h2_Z24_C1_2,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h2_Z24_C1_3,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_0,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_1,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_10,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_11,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_12,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_13,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_14,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_15,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_16,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_17,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_18,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_19,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_2,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_20,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_21,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_22,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_23,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_24,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_25,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_26,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_27,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_28,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_29,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_3,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_4,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_5,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_6,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_7,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_8,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h4_Z24_C1_9,H2/H4,24,168,24,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),24,24,24,True
+h2_Z24_C2_0,H2/H4,24,120,48,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,48,48,48,True
+h2_Z24_C2_1,H2/H4,24,120,48,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,48,48,48,True
+h2_Z24_C2_2,H2/H4,24,120,48,0,4,"{""1"": 5, ""2"": 2}",False,False,C2,two collision orbits or one triple orbit,48,48,48,True
+h2_Z24_C2_3,H2/H4,24,144,0,24,6,"{""1"": 6, ""3"": 1}",False,False,C2,two collision orbits or one triple orbit,72,72,48,False
+h2_Z24_D_0,H2/H4,24,216,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z24_D_1,H2/H4,24,216,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z24_D_2,H2/H4,24,216,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h2_Z24_D_3,H2/H4,24,216,0,0,2,"{""1"": 9}",True,False,D,no 4-qubit overlaps,0,0,0,True
+h4_Z28_C1_0,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_1,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_10,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_11,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_12,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_13,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_14,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_15,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_16,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_17,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_18,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_19,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_2,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_20,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_21,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_22,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_23,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_24,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_25,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_26,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_27,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_28,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_29,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_3,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_4,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_5,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_6,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_7,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_8,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z28_C1_9,H2/H4,28,196,28,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),28,28,28,True
+h4_Z30_C1_0,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_1,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_10,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_11,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_12,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_13,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_14,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_15,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_16,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_17,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_18,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_19,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_2,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_20,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_21,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_22,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_23,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_24,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_25,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_26,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_27,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_28,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_29,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_3,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_4,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_5,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_6,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_7,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_8,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z30_C1_9,H2/H4,30,210,30,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),30,30,30,True
+h4_Z32_C1_0,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_1,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_10,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_11,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_12,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_13,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_14,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_15,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_16,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_17,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_18,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_19,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_2,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_20,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_21,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_22,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_23,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_24,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_25,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_26,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_27,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_28,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_29,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_3,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_4,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_5,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_6,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_7,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_8,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z32_C1_9,H2/H4,32,224,32,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),32,32,32,True
+h4_Z36_C1_0,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_1,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_10,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_11,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_12,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_13,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_14,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_15,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_16,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_17,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_18,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_19,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_2,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_20,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_21,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_22,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_23,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_24,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_25,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_26,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_27,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_28,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_29,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_3,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_4,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_5,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_6,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_7,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_8,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True
+h4_Z36_C1_9,H2/H4,36,252,36,0,4,"{""1"": 7, ""2"": 1}",False,False,C1,one collision orbit (N four-qubit overlaps),36,36,36,True

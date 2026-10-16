@@ -1,0 +1,18 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{The translation-invariant depth-7 schedule of \texttt{bb72} that witnesses $D=7$: the layer of every Tanner edge as a function of its label and of the (check kind, qubit side) it joins.  The same assignment is used for all $|G|=36$ translates.}
+\label{tabS:depth7}
+\begin{tabular}{llrrr}
+\toprule
+check & side & label 1 & label 2 & label 3 \\
+\midrule
+$X$ & $L$ & 1 & 2 & 7 \\
+$X$ & $R$ & 4 & 3 & 5 \\
+$Z$ & $L$ & 5 & 3 & 4 \\
+$Z$ & $R$ & 6 & 7 & 1 \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize Properness re-checked by $\mathbb{F}_2$ simulation: verified.\end{minipage}
+\end{table}

@@ -1,0 +1,22 @@
+instance,N,k,l,Delta,D,status,time,proof_bytes,verified,solver,solver_version,tag,nvars,nclauses,verify_time,proper_by_simulation,schedule,proof,timestamp
+bb72,36,3,3,6,6,UNSAT,1.389,12866818,VERIFIED,kissat,4.0.4,,8640,40177,1.277,,,certs/bb72_d6.drat,2026-09-07T19:56:58
+bb90,45,3,3,6,6,UNSAT,2.027,20261082,VERIFIED,kissat,4.0.4,,10800,50221,1.594,,,certs/bb90_d6.drat,2026-09-07T19:56:59
+bb108,54,3,3,6,6,UNSAT,2.049,20781069,VERIFIED,kissat,4.0.4,,12960,60265,2.103,,,certs/bb108_d6.drat,2026-09-07T19:56:59
+bb144,72,3,3,6,6,UNSAT,2.237,23082271,VERIFIED,kissat,4.0.4,,17280,80353,2.696,,,certs/bb144_d6.drat,2026-09-07T19:57:00
+bb288,144,3,3,6,6,UNSAT,4.293,46354309,VERIFIED,kissat,4.0.4,,34560,160705,14.885,,,certs/bb288_d6.drat,2026-09-07T19:57:14
+bb360,180,3,3,6,6,UNSAT,4.797,51978429,VERIFIED,kissat,4.0.4,,43200,200881,18.538,,,certs/bb360_d6.drat,2026-09-07T19:57:19
+bb756,378,3,3,6,6,UNSAT,5.94,46501698,VERIFIED,kissat,4.0.4,,90720,421849,28.65,,,certs/bb756_d6.drat,2026-09-07T19:58:52
+bb72,36,3,3,6,7,SAT,117.287,0,,kissat,4.0.4,,10152,48817,0.0,True,schedules/bb72_d7.json,,2026-09-07T19:58:55
+bb90,45,3,3,6,7,SAT,413.949,0,,kissat,4.0.4,,12690,61021,0.0,True,schedules/bb90_d7.json,,2026-09-07T20:03:53
+bb72,36,3,3,6,7,SAT,0.008,0,,kissat,4.0.4 (git 8af8e56),inv,10152,49249,0.0,True,schedules/bb72_d7_inv.json,,2026-09-07T20:13:47
+bb90,45,3,3,6,7,SAT,0.007,0,,kissat,4.0.4 (git 8af8e56),inv,12690,61561,0.0,True,schedules/bb90_d7_inv.json,,2026-09-07T20:13:47
+bb108,54,3,3,6,7,SAT,0.009,0,,kissat,4.0.4 (git 8af8e56),inv,15228,73873,0.0,True,schedules/bb108_d7_inv.json,,2026-09-07T20:13:47
+bb144,72,3,3,6,7,SAT,0.012,0,,kissat,4.0.4 (git 8af8e56),inv,20304,98497,0.0,True,schedules/bb144_d7_inv.json,,2026-09-07T20:13:47
+bb288,144,3,3,6,7,SAT,0.024,0,,kissat,4.0.4 (git 8af8e56),inv,40608,196993,0.0,True,schedules/bb288_d7_inv.json,,2026-09-07T20:13:49
+bb360,180,3,3,6,7,SAT,0.029,0,,kissat,4.0.4 (git 8af8e56),inv,50760,246241,0.0,True,schedules/bb360_d7_inv.json,,2026-09-07T20:13:49
+bb756,378,3,3,6,7,SAT,0.062,0,,kissat,4.0.4 (git 8af8e56),inv,106596,517105,0.0,True,schedules/bb756_d7_inv.json,,2026-09-07T20:13:50
+sw73,6,3,3,6,6,UNSAT,558.046,2727429491,VERIFIED,kissat,4.0.4 (git 8af8e56),,1512,6913,897.421,,,certs/sw73_d6.drat,2026-09-07T20:30:36
+bb108,54,3,3,6,6,UNSAT,2.432,20781069,VERIFIED,kissat,4.0.4 (git 8af8e56),,12960,60265,2.231,,,certs/bb108_d6.drat,2026-09-07T20:57:05
+bb144,72,3,3,6,6,UNSAT,2.689,23082271,VERIFIED,kissat,4.0.4 (git 8af8e56),,17280,80353,2.89,,,certs/bb144_d6.drat,2026-09-07T20:57:05
+bb288,144,3,3,6,6,UNSAT,4.775,46354309,VERIFIED,kissat,4.0.4 (git 8af8e56),,34560,160705,13.14,,,certs/bb288_d6.drat,2026-09-07T20:57:18
+bb360,180,3,3,6,6,UNSAT,5.363,51978429,VERIFIED,kissat,4.0.4 (git 8af8e56),,43200,200881,19.755,,,certs/bb360_d6.drat,2026-09-07T20:57:25

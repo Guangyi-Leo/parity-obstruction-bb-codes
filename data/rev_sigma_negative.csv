@@ -1,0 +1,15 @@
+q,ansatz,n_sat,sat_b,n_total,run,script,args,seconds
+8,ansatz=sigma-half,1,5,8,family_q8_half,family.py,8 sigma-half,9.4
+8,ansatz=sigma-two,0,,8,family_q8_two,family.py,8 sigma-two,13.8
+8,"level-1 sigma A at shift 4, level-2 type-dependent permutation at shift 2",0,,8,twolevel_q8,twolevel.py,8,0.6
+8,"level-1 sigma A at shift 4, level-2 block-dependent permutation at shift 2",0,,8,twolevel_q8,twolevel.py,8,0.6
+16,ansatz=sigma-half,1,9,16,family_q16_half,family.py,16 sigma-half,42.9
+16,"level-1 sigma A at shift 8, level-2 type-dependent permutation at shift 4",0,,16,twolevel_q16,twolevel.py,16,1.2
+16,"level-1 sigma A at shift 8, level-2 block-dependent permutation at shift 4",0,,16,twolevel_q16,twolevel.py,16,1.2
+16,"T depends only on (c mod 2, floor(8c/q))",21,,21,struct_test2_q16,struct_test2.py,16,334.2
+16,"T depends only on (c mod 4, floor(4c/q))",21,,21,struct_test2_q16,struct_test2.py,16,334.2
+16,"T depends only on (c mod 4, floor(8c/q))",21,,21,struct_test2_q16,struct_test2.py,16,334.2
+16,"T depends only on (c mod 8, floor(4c/q))",21,,21,struct_test2_q16,struct_test2.py,16,334.2
+16,ansatz=typed:parity+quarter,4,3 7 11 15,16,family_q16_typed_pq,family.py,16 typed:parity+quarter,24.9
+16,ansatz=typed:mod4+half,2,7 15,16,family_q16_typed_m4h,family.py,16 typed:mod4+half,28.2
+16,ansatz=sigma-half-typed,16,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15,16,family_q16_half_typed,family.py,16 sigma-half-typed,5.8

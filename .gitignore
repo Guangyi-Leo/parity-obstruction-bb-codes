@@ -1,20 +1,19 @@
-# Python
 __pycache__/
-*.py[cod]
-*.egg-info/
+*.pyc
 .venv/
-venv/
-env/
-
-# OS / editor
-.DS_Store
-.idea/
-.vscode/
-
-# LaTeX build artifacts (if you add the manuscript later)
-*.aux
-*.log
-*.out
-*.bbl
-*.blg
-*.synctex.gz
+# built from source by setup_solvers.sh, not tracked
+bin/
+build/
+tools/
+# the DRAT proofs live on Zenodo: the largest is 2.6 GB and GitHub rejects
+# anything over 100 MB.  certs/*.cnf.xz and certs/PROOFS.sha256 are tracked.
+certs/*.drat
+certs/*.drat.xz
+certs_nosym/*.drat
+certs_nosym/*.drat.xz
+# LaTeX build products, except the label map the figures fall back on
+build_tex/*
+!build_tex/labels.json
+dist/
+revision/work/
+logs/

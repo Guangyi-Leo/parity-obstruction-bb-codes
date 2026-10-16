@@ -1,0 +1,8 @@
+q,kind,sat,total,all_sat,run,script,args,seconds
+8,representatives,11,11,True,keys16_q8,keys16.py,8,2.2
+16,representatives,21,21,True,keys16_q16,keys16.py,16,101.3
+32,representatives,39,39,True,keys16_q32,keys16.py,32,1027.9
+64,forced_involutions,64,64,True,force_q64,force32.py,64,6.8
+128,forced_involutions,128,128,True,force_q128,force32.py,128,34.1
+256,forced_involutions,256,256,True,force_q256,force32.py,256,159.2
+512,forced_involutions,512,512,True,force_q512,force32.py,512,865.7

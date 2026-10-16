@@ -1,0 +1,20 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{Exhaustive enumeration of the $\varepsilon$-templates at each modulus $m$: every $\varepsilon$-vector is tested for a depth-6 twisted schedule on the reduced label system.  No vector with $|M|$ odd admits one at any $m$.}
+\label{tabS:templates}
+\begin{tabular}{rrrrrrrr}
+\toprule
+$m$ & $k$ & $l$ & patterns & $\varepsilon$-vectors & admitting & \% & time (s) \\
+\midrule
+2 & 3 & 3 & 18 & 144 & 72 & 50.0 & 0.8 \\
+3 & 3 & 3 & 18 & 486 & 0 & 0.0 & 40.4 \\
+4 & 3 & 3 & 18 & 1,152 & 864 & 75.0 & 24.1 \\
+5 & 3 & 3 & 18 & 2,250 & 0 & 0.0 & 1150.5 \\
+6 & 3 & 3 & 18 & 3,888 & 2,412 & 62.0 & 133.8 \\
+8 & 3 & 3 & 18 & 9,216 & 8,064 & 87.5 & 309.0 \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize Computed for $m \in \{2, 3, 4, 5, 6, 8\}$; other moduli were not computed.\end{minipage}
+\end{table}

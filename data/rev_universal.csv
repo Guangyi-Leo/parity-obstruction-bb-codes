@@ -1,0 +1,15 @@
+q,ansatz,found,witness,run,script,args,seconds
+8,"sigma_XL=sigma_ZR, sigma_XR=sigma_ZL",False,None,universal3_q8,universal3.py,8,3.9
+8,"sigma_XL=sigma_XR, sigma_ZL=sigma_ZR",False,None,universal3_q8,universal3.py,8,3.9
+8,"sigma_XL=sigma_ZL, sigma_XR=sigma_ZR",True,"{'XL': (4, 3, 2, 1, 6, 5), 'XR': (2, 1, 5, 6, 3, 4), 'ZL': (4, 3, 2, 1, 6, 5), 'ZR': (2, 1, 5, 6, 3, 4)}",universal3_q8,universal3.py,8,3.9
+2,pair A,True,"L=(13)(24)(56), R=(12)(36)(45)",universal4,universal4.py,2 4 8 16,3.1
+2,pair B,True,"L=(14)(23)(56), R=(12)(35)(46)",universal4,universal4.py,2 4 8 16,3.1
+4,pair A,True,"L=(13)(24)(56), R=(12)(36)(45)",universal4,universal4.py,2 4 8 16,3.1
+4,pair B,True,"L=(14)(23)(56), R=(12)(35)(46)",universal4,universal4.py,2 4 8 16,3.1
+8,pair A,True,"L=(13)(24)(56), R=(12)(36)(45)",universal4,universal4.py,2 4 8 16,3.1
+8,pair B,True,"L=(14)(23)(56), R=(12)(35)(46)",universal4,universal4.py,2 4 8 16,3.1
+16,pair A,True,"L=(13)(24)(56), R=(12)(36)(45)",universal4,universal4.py,2 4 8 16,3.1
+16,pair B,True,"L=(14)(23)(56), R=(12)(35)(46)",universal4,universal4.py,2 4 8 16,3.1
+16,"sigma_XL=sigma_ZR, sigma_XR=sigma_ZL",False,None,universal3_q16,universal3.py,16,5.4
+16,"sigma_XL=sigma_XR, sigma_ZL=sigma_ZR",False,None,universal3_q16,universal3.py,16,5.4
+16,"sigma_XL=sigma_ZL, sigma_XR=sigma_ZR",True,"{'XL': (3, 4, 1, 2, 6, 5), 'XR': (2, 1, 6, 5, 4, 3), 'ZL': (3, 4, 1, 2, 6, 5), 'ZR': (2, 1, 6, 5, 4, 3)}",universal3_q16,universal3.py,16,5.4

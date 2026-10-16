@@ -1,0 +1,27 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{The seven BB codes of Ref.~[5], with the six further instances used in this work. $A$ and $B$ are lists of group elements; $\ell$ and $m$ are the cyclic factors of $G$. The logical dimension $k$ is computed as $2N-\operatorname{rank}_{\mathbb F_2}H_X-\operatorname{rank}_{\mathbb F_2}H_Z$; the distance $d$ is not determined here.}
+\label{tabS:instances}
+\begin{tabular}{llrrllccr}
+\toprule
+instance & family & $\ell$ & $m$ & $A$ & $B$ & $[[n,k,d]]$ & distinct sums & $\max (H_XH_Z^{\mathsf T})$ \\
+\midrule
+bb72 & IBM & 6 & 6 & $\{(3,0),(0,1),(0,2)\}$ & $\{(0,3),(1,0),(2,0)\}$ & $[[72,12,--]]$ & yes & 2 \\
+bb90 & IBM & 15 & 3 & $\{(9,0),(0,1),(0,2)\}$ & $\{(0,0),(2,0),(7,0)\}$ & $[[90,8,--]]$ & yes & 2 \\
+bb108 & IBM & 9 & 6 & $\{(3,0),(0,1),(0,2)\}$ & $\{(0,3),(1,0),(2,0)\}$ & $[[108,8,--]]$ & yes & 2 \\
+bb144 & IBM & 12 & 6 & $\{(3,0),(0,1),(0,2)\}$ & $\{(0,3),(1,0),(2,0)\}$ & $[[144,12,--]]$ & yes & 2 \\
+bb288 & IBM & 12 & 12 & $\{(3,0),(0,2),(0,7)\}$ & $\{(0,3),(1,0),(2,0)\}$ & $[[288,12,--]]$ & yes & 2 \\
+bb360 & IBM & 30 & 6 & $\{(9,0),(0,1),(0,2)\}$ & $\{(0,3),(25,0),(26,0)\}$ & $[[360,12,--]]$ & yes & 2 \\
+bb756 & IBM & 21 & 18 & $\{(3,0),(0,10),(0,17)\}$ & $\{(0,5),(3,0),(19,0)\}$ & $[[756,16,--]]$ & yes & 2 \\
+oe23 & one-even & 12 & 1 & $\{(0,0),(1,0)\}$ & $\{(0,0),(4,0),(8,0)\}$ & $[[24,0,--]]$ & yes & 2 \\
+oe21 & one-even & 8 & 1 & $\{(0,0),(3,0)\}$ & $\{(0,0)\}$ & $[[16,0,--]]$ & yes & 2 \\
+oe43 & one-even & 16 & 1 & $\{(0,0),(1,0),(2,0),(3,0)\}$ & $\{(0,0),(4,0),(8,0)\}$ & $[[32,0,--]]$ & yes & 2 \\
+oe12 & one-even & 8 & 1 & $\{(0,0)\}$ & $\{(0,0),(4,0)\}$ & $[[16,0,--]]$ & yes & 2 \\
+k5 & optional & 26 & 1 & $\{(0,0),(1,0),(2,0),(3,0),(4,0)\}$ & $\{(0,0),(5,0),(10,0),(15,0),(20,0)\}$ & $[[52,0,--]]$ & yes & 2 \\
+sw73 & sweep & 6 & -- & $\{(0),(2),(4)\}$ & $\{(0),(2),(4)\}$ & $[[12,8,--]]$ & no & 6 \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize $m=--$ marks a group written with a single cyclic factor. $d=--$ throughout: no distance is computed in this work.\end{minipage}
+\end{table}

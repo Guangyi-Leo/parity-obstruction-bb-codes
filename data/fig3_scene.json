@@ -1,0 +1,156 @@
+{
+ "cards": [
+  {
+   "klass": "D",
+   "instance": "h2_Z10_D_0",
+   "N": 10,
+   "A": [
+    0,
+    3,
+    6
+   ],
+   "B": [
+    0,
+    1,
+    9
+   ],
+   "sums": [
+    [
+     0,
+     1,
+     9
+    ],
+    [
+     3,
+     4,
+     2
+    ],
+    [
+     6,
+     7,
+     5
+    ]
+   ],
+   "groups": [],
+   "n_distinct": 9,
+   "distinct_sums": true,
+   "n2": "90",
+   "n4": "0",
+   "n6": "0",
+   "verdict": "UNSAT by theorem",
+   "source": "data/h2_sharpness.csv, data/r7_overlap_counts.csv"
+  },
+  {
+   "klass": "C1",
+   "instance": "h2_Z10_C1_0",
+   "N": 10,
+   "A": [
+    0,
+    2,
+    9
+   ],
+   "B": [
+    0,
+    1,
+    6
+   ],
+   "sums": [
+    [
+     0,
+     1,
+     6
+    ],
+    [
+     2,
+     3,
+     8
+    ],
+    [
+     9,
+     0,
+     5
+    ]
+   ],
+   "groups": [
+    [
+     [
+      0,
+      0
+     ],
+     [
+      2,
+      1
+     ]
+    ]
+   ],
+   "n_distinct": 8,
+   "distinct_sums": false,
+   "n2": "70",
+   "n4": "10",
+   "n6": "0",
+   "verdict": "SAT iff $d \\notin 8G$",
+   "source": "data/h2_sharpness.csv, data/r7_overlap_counts.csv"
+  },
+  {
+   "klass": "C2",
+   "instance": "h2_Z10_C2_0",
+   "N": 10,
+   "A": [
+    0,
+    4,
+    9
+   ],
+   "B": [
+    0,
+    1,
+    2
+   ],
+   "sums": [
+    [
+     0,
+     1,
+     2
+    ],
+    [
+     4,
+     5,
+     6
+    ],
+    [
+     9,
+     0,
+     1
+    ]
+   ],
+   "groups": [
+    [
+     [
+      0,
+      0
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      2
+     ]
+    ]
+   ],
+   "n_distinct": 7,
+   "distinct_sums": false,
+   "n2": "50",
+   "n4": "20",
+   "n6": "0",
+   "verdict": "mostly SAT",
+   "source": "data/h2_sharpness.csv, data/r7_overlap_counts.csv"
+  }
+ ]
+}

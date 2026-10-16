@@ -1,0 +1,5 @@
+region,SAT (solver),SAT (template witness),UNSAT,UNDETERMINED,total
+ord(d) even,262,3,0,0,265
+"ord(d) odd, Theorem-1 obstructed",0,0,131,80,211
+"ord(d) odd, not obstructed",25,5,62,30,122
+total,287,8,193,110,598

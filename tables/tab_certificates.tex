@@ -1,0 +1,22 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{Certificates. At $D=\Delta$ every instance is refuted and the DRAT proof is accepted by \texttt{drat-trim}; the same CNF is re-decided by cadical. At $D=7$ the `inv.' column is the translation-invariant witness pinned by unit assumptions, whose properness is re-checked by $\mathbb{F}_2$ simulation.  The last column repeats the $D=\Delta$ refutation with the layer-reversal symmetry-breaking clause removed, i.e.\ the certificates in \texttt{certs\_nosym/}: status, solve time, proof MB and drat-trim verdict.}
+\label{tab:certificates}
+\begin{tabular}{llrrlrllll}
+\toprule
+instance & $D=\Delta$ & solve (s) & proof (MB) & drat-trim & verify (s) & cadical & $D=7$ inv. & $D=7$ unrestricted & no reversal clause (status, s, MB, drat-trim) \\
+\midrule
+bb72 & UNSAT & 1.39 & 12.9 & VERIFIED & 1.28 & UNSAT & SAT & SAT (117\,s) & UNSAT, 4.05\,s, 24.3, VERIFIED \\
+bb90 & UNSAT & 2.03 & 20.3 & VERIFIED & 1.59 & UNSAT & SAT & SAT (414\,s) & UNSAT, 4.21\,s, 41.0, VERIFIED \\
+bb108 & UNSAT & 2.43 & 20.8 & VERIFIED & 2.23 & UNSAT & SAT & -- & UNSAT, 4.83\,s, 51.7, VERIFIED \\
+bb144 & UNSAT & 2.69 & 23.1 & VERIFIED & 2.89 & UNSAT & SAT & -- & UNSAT, 3.60\,s, 35.0, VERIFIED \\
+bb288 & UNSAT & 4.78 & 46.4 & VERIFIED & 13.14 & UNSAT & SAT & -- & UNSAT, 1.44\,s, 17.8, VERIFIED \\
+bb360 & UNSAT & 5.36 & 52.0 & VERIFIED & 19.75 & UNSAT & SAT & -- & UNSAT, 6.29\,s, 68.0, VERIFIED \\
+bb756 & UNSAT & 5.94 & 46.5 & VERIFIED & 28.65 & UNSAT & SAT & -- & UNSAT, 3.32\,s, 46.2, VERIFIED \\
+sw73 & UNSAT & 558.05 & 2727.4 & VERIFIED & 897.42 & UNSAT & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize `--' in the last column marks an unrestricted search that was stopped before returning a verdict; existence at $D=7$ is settled by the invariant witness.\end{minipage}
+\end{table}

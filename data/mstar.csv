@@ -1,0 +1,599 @@
+instance,N,status,status_resolved,theorem1_obstructed,ord_d,ord_d_even,stratum,m_star,m_star_kind,twisted_ms,unknown_ms,tested_ms
+h2_Z10_C1_0,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h2_Z10_C1_1,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h2_Z10_C1_2,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h2_Z10_C1_3,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_0,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_1,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_10,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_11,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_12,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_13,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_14,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_15,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_16,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_17,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_18,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_19,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_2,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_20,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_21,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_22,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_23,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_24,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_25,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_26,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_27,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_28,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_29,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_3,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_4,10,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z10_C1_5,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_6,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_7,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_8,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z10_C1_9,10,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 5]"
+h4_Z11_C1_0,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_1,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_10,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_11,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_12,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_13,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_14,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_15,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_16,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_17,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_18,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_19,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_2,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_20,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_21,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_22,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_23,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_24,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_25,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_26,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_27,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_28,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_29,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_3,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_4,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_5,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_6,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_7,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_8,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z11_C1_9,11,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h2_Z12_C1_0,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h2_Z12_C1_1,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h2_Z12_C1_2,12,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h2_Z12_C1_3,12,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_0,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_1,12,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 4, 6]"
+h4_Z12_C1_10,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_11,12,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z12_C1_12,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_13,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_14,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_15,12,UNSAT,UNSAT,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 4, 6]"
+h4_Z12_C1_16,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_17,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_18,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_19,12,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_2,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_20,12,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 4, 6]"
+h4_Z12_C1_21,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_22,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_23,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_24,12,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 4, 6]"
+h4_Z12_C1_25,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_26,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_27,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_28,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_29,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_3,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_4,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_5,12,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z12_C1_6,12,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z12_C1_7,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_8,12,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z12_C1_9,12,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z13_C1_0,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_1,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_10,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_11,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_12,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_13,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_14,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_15,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_16,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_17,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_18,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_19,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_2,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_20,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_21,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_22,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_23,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_24,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_25,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_26,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_27,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_28,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_29,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_3,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_4,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_5,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_6,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_7,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_8,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z13_C1_9,13,UNSAT,UNSAT,True,13,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h2_Z14_C1_0,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h2_Z14_C1_1,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h2_Z14_C1_2,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h2_Z14_C1_3,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_0,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_1,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_10,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_11,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_12,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_13,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_14,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_15,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_16,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_17,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_18,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_19,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_2,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_20,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_21,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_22,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_23,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_24,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_25,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_26,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_27,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_28,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_29,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_3,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_4,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_5,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_6,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z14_C1_7,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_8,14,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 7]"
+h4_Z14_C1_9,14,SAT,SAT,False,14,True,ord(d) even,2,found,[2],[],[2]
+h4_Z15_C1_0,15,UNSAT,UNSAT,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_1,15,UNSAT,UNSAT,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_10,15,TIMEOUT,UNDETERMINED,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_11,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_12,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_13,15,UNSAT,UNSAT,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_14,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_15,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_16,15,UNSAT,UNSAT,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_17,15,UNSAT,UNSAT,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_18,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_19,15,UNSAT,UNSAT,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_2,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_20,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_21,15,UNSAT,UNSAT,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_22,15,UNSAT,UNSAT,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_23,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_24,15,UNSAT,UNSAT,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_25,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_26,15,UNSAT,UNSAT,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_27,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_28,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_29,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_3,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_4,15,UNSAT,UNSAT,True,5,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_5,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_6,15,UNSAT,UNSAT,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_7,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_8,15,UNSAT,UNSAT,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h4_Z15_C1_9,15,UNSAT,UNSAT,True,15,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 5]"
+h2_Z16_C1_0,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h2_Z16_C1_1,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h2_Z16_C1_2,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h2_Z16_C1_3,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_0,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_1,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_10,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_11,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_12,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_13,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_14,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_15,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_16,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_17,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_18,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_19,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_2,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_20,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_21,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_22,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_23,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_24,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_25,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_26,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_27,16,SAT,SAT,False,4,True,ord(d) even,8,found,[8],[],[8]
+h4_Z16_C1_28,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_29,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_3,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_4,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_5,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_6,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_7,16,SAT,SAT,False,8,True,ord(d) even,4,found,[4],[],[4]
+h4_Z16_C1_8,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z16_C1_9,16,SAT,SAT,False,16,True,ord(d) even,2,found,[2],[],[2]
+h4_Z17_C1_0,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_1,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_10,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_11,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_12,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_13,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_14,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_15,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_16,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_17,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_18,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_19,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_2,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_20,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_21,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_22,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_23,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_24,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_25,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_26,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_27,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_28,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_29,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_3,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_4,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_5,17,TIMEOUT,UNDETERMINED,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_6,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_7,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_8,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z17_C1_9,17,UNSAT,UNSAT,True,17,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h2_Z18_C1_0,18,UNSAT,UNSAT,False,9,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h2_Z18_C1_1,18,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 6]"
+h2_Z18_C1_2,18,UNSAT,UNSAT,False,3,False,"ord(d) odd, not obstructed",,none found (capped),[],[9],"[2, 3, 6, 9]"
+h2_Z18_C1_3,18,UNSAT,UNSAT,False,9,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z18_C1_0,18,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 6]"
+h4_Z18_C1_1,18,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 6]"
+h4_Z18_C1_10,18,UNSAT,UNSAT,False,9,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z18_C1_11,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_12,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_13,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_14,18,UNSAT,UNSAT,False,9,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z18_C1_15,18,UNSAT,UNSAT,False,9,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z18_C1_16,18,TIMEOUT,UNDETERMINED,False,9,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z18_C1_17,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_18,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_19,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_2,18,SAT,SAT,False,6,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_20,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_21,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_22,18,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 6]"
+h4_Z18_C1_23,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_24,18,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z18_C1_25,18,TIMEOUT,UNDETERMINED,False,9,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z18_C1_26,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_27,18,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 6]"
+h4_Z18_C1_28,18,TIMEOUT,UNDETERMINED,False,3,False,"ord(d) odd, not obstructed",,none found (capped),[],[9],"[2, 3, 6, 9]"
+h4_Z18_C1_29,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_3,18,SAT,SAT,False,18,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_4,18,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 6]"
+h4_Z18_C1_5,18,SAT,SAT,False,6,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_6,18,SAT,SAT,False,6,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_7,18,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 6]"
+h4_Z18_C1_8,18,SAT,SAT,False,6,True,ord(d) even,2,found,[2],[],[2]
+h4_Z18_C1_9,18,TIMEOUT,UNDETERMINED,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 6, 9]"
+h4_Z19_C1_0,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_1,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_10,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_11,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_12,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_13,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_14,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_15,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_16,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_17,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_18,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_19,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_2,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_20,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_21,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_22,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_23,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_24,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_25,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_26,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_27,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_28,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_29,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_3,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_4,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_5,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_6,19,UNSAT,UNSAT,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_7,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_8,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z19_C1_9,19,TIMEOUT,UNDETERMINED,True,19,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h2_Z20_C1_0,20,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],[10],"[2, 4, 5, 10]"
+h2_Z20_C1_1,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h2_Z20_C1_2,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h2_Z20_C1_3,20,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],[10],"[2, 4, 5, 10]"
+h4_Z20_C1_0,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_1,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_10,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_11,20,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],[10],"[2, 4, 5, 10]"
+h4_Z20_C1_12,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_13,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_14,20,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_15,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_16,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_17,20,TIMEOUT,UNDETERMINED,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 4, 5, 10]"
+h4_Z20_C1_18,20,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 4, 5, 10]"
+h4_Z20_C1_19,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_2,20,SAT,SAT,False,5,False,"ord(d) odd, not obstructed",10,found,[10],[],"[2, 4, 5, 10]"
+h4_Z20_C1_20,20,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_21,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_22,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_23,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_24,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_25,20,TIMEOUT,UNDETERMINED,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],[10],"[2, 4, 5, 10]"
+h4_Z20_C1_26,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_27,20,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_28,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_29,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_3,20,SAT,SAT,False,10,True,ord(d) even,4,found,[4],[],[4]
+h4_Z20_C1_4,20,TIMEOUT,UNDETERMINED,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 4, 5, 10]"
+h4_Z20_C1_5,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_6,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_7,20,SAT,SAT,False,20,True,ord(d) even,2,found,[2],[],[2]
+h4_Z20_C1_8,20,TIMEOUT,UNDETERMINED,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],[10],"[2, 4, 5, 10]"
+h4_Z20_C1_9,20,UNSAT,UNSAT,False,5,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 4, 5, 10]"
+h4_Z21_C1_0,21,TIMEOUT,UNDETERMINED,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_1,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_10,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_11,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_12,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_13,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_14,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_15,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_16,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_17,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_18,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_19,21,UNSAT,UNSAT,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_2,21,UNSAT,UNSAT,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_20,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_21,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_22,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_23,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_24,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_25,21,TIMEOUT,UNDETERMINED,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_26,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_27,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_28,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_29,21,UNSAT,UNSAT,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_3,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_4,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_5,21,TIMEOUT,UNDETERMINED,True,7,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_6,21,TIMEOUT,UNDETERMINED,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_7,21,UNSAT,UNSAT,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_8,21,UNSAT,UNSAT,True,21,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z21_C1_9,21,TIMEOUT,UNDETERMINED,True,3,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],"[3, 7]"
+h4_Z22_C1_0,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_1,22,TIMEOUT,UNDETERMINED,False,11,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 11]"
+h4_Z22_C1_10,22,TIMEOUT,UNDETERMINED,False,11,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 11]"
+h4_Z22_C1_11,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_12,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_13,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_14,22,UNSAT,UNSAT,False,11,False,"ord(d) odd, not obstructed",,none found (capped),[],[11],"[2, 11]"
+h4_Z22_C1_15,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_16,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_17,22,UNSAT,UNSAT,False,11,False,"ord(d) odd, not obstructed",,none found (capped),[],[11],"[2, 11]"
+h4_Z22_C1_18,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_19,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_2,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_20,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_21,22,UNSAT,UNSAT,False,11,False,"ord(d) odd, not obstructed",,none found (capped),[],[11],"[2, 11]"
+h4_Z22_C1_22,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_23,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_24,22,TIMEOUT,UNDETERMINED,False,11,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 11]"
+h4_Z22_C1_25,22,TIMEOUT,UNDETERMINED,False,11,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 11]"
+h4_Z22_C1_26,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_27,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_28,22,UNSAT,UNSAT,True,11,False,"ord(d) odd, theorem-1 obstructed",,none found (capped),[],[11],"[2, 11]"
+h4_Z22_C1_29,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_3,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_4,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_5,22,TIMEOUT,UNDETERMINED,False,11,False,"ord(d) odd, not obstructed",,none found (capped),[],[11],"[2, 11]"
+h4_Z22_C1_6,22,TIMEOUT,UNDETERMINED,False,11,False,"ord(d) odd, not obstructed",,none found (capped),[],[11],"[2, 11]"
+h4_Z22_C1_7,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_8,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z22_C1_9,22,SAT,SAT,False,22,True,ord(d) even,2,found,[2],[],[2]
+h4_Z23_C1_0,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_1,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_10,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_11,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_12,23,UNSAT,UNSAT,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_13,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_14,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_15,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_16,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_17,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_18,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_19,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_2,23,UNSAT,UNSAT,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_20,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_21,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_22,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_23,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_24,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_25,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_26,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_27,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_28,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_29,23,UNSAT,UNSAT,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_3,23,UNSAT,UNSAT,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_4,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_5,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_6,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_7,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_8,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h4_Z23_C1_9,23,TIMEOUT,UNDETERMINED,True,23,False,"ord(d) odd, theorem-1 obstructed",,none found (uncapped),[],[],[]
+h2_Z24_C1_0,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h2_Z24_C1_1,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h2_Z24_C1_2,24,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 4, 6, 8, 12]"
+h2_Z24_C1_3,24,SAT,SAT,False,8,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_0,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_1,24,SAT,SAT,False,8,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_10,24,SAT,SAT,False,6,True,ord(d) even,8,found,[8],[],[8]
+h4_Z24_C1_11,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h4_Z24_C1_12,24,SAT,SAT,False,8,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_13,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_14,24,SAT,SAT,False,8,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_15,24,SAT,SAT,False,8,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_16,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h4_Z24_C1_17,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h4_Z24_C1_18,24,SAT,SAT,False,6,True,ord(d) even,8,found,[8],[],[8]
+h4_Z24_C1_19,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_2,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_20,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_21,24,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",12,found,[12],[],"[2, 3, 4, 6, 8, 12]"
+h4_Z24_C1_22,24,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z24_C1_23,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h4_Z24_C1_24,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_25,24,SAT,SAT,False,8,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_26,24,SAT,SAT,False,6,True,ord(d) even,8,found,[8],[],[8]
+h4_Z24_C1_27,24,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z24_C1_28,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h4_Z24_C1_29,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_3,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_4,24,SAT,SAT,False,4,True,ord(d) even,4,found,[4],[],[4]
+h4_Z24_C1_5,24,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 4, 6, 8, 12]"
+h4_Z24_C1_6,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_7,24,SAT,SAT,False,24,True,ord(d) even,2,found,[2],[],[2]
+h4_Z24_C1_8,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h4_Z24_C1_9,24,SAT,SAT,False,12,True,ord(d) even,4,found,[4],[],[4]
+h4_Z28_C1_0,28,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_1,28,TIMEOUT,UNDETERMINED,False,7,False,"ord(d) odd, not obstructed",,none found (capped),[],[14],"[2, 4, 7, 14]"
+h4_Z28_C1_10,28,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 4, 7, 14]"
+h4_Z28_C1_11,28,SAT,SAT,False,14,True,ord(d) even,4,found,[4],[],[4]
+h4_Z28_C1_12,28,UNSAT,UNSAT,False,7,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 4, 7, 14]"
+h4_Z28_C1_13,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_14,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_15,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_16,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_17,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_18,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_19,28,SAT,SAT,False,14,True,ord(d) even,4,found,[4],[],[4]
+h4_Z28_C1_2,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_20,28,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_21,28,SAT,SAT,False,14,True,ord(d) even,4,found,[4],[],[4]
+h4_Z28_C1_22,28,TIMEOUT,UNDETERMINED,False,7,False,"ord(d) odd, not obstructed",,none found (capped),[],[14],"[2, 4, 7, 14]"
+h4_Z28_C1_23,28,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_24,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_25,28,TIMEOUT,UNDETERMINED,False,7,False,"ord(d) odd, not obstructed",,none found (capped),[],[14],"[2, 4, 7, 14]"
+h4_Z28_C1_26,28,SAT,SAT,False,7,False,"ord(d) odd, not obstructed",14,found,[14],[],"[2, 4, 7, 14]"
+h4_Z28_C1_27,28,SAT,SAT,False,14,True,ord(d) even,4,found,[4],[],[4]
+h4_Z28_C1_28,28,SAT,SAT,False,14,True,ord(d) even,4,found,[4],[],[4]
+h4_Z28_C1_29,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_3,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_4,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_5,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_6,28,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_7,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_8,28,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z28_C1_9,28,SAT,SAT,False,28,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_0,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_1,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_10,30,TIMEOUT,SAT,False,15,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 5, 6]"
+h4_Z30_C1_11,30,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_12,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_13,30,TIMEOUT,UNDETERMINED,False,15,False,"ord(d) odd, not obstructed",,none found (capped),[],"[10, 15]","[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_14,30,SAT,SAT,False,6,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_15,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_16,30,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_17,30,TIMEOUT,UNDETERMINED,False,15,False,"ord(d) odd, not obstructed",,none found (capped),[],[15],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_18,30,TIMEOUT,UNDETERMINED,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],"[10, 15]","[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_19,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_2,30,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_20,30,SAT,SAT,False,15,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 5, 6]"
+h4_Z30_C1_21,30,TIMEOUT,UNDETERMINED,False,15,False,"ord(d) odd, not obstructed",,none found (capped),[],[15],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_22,30,SAT,SAT,False,15,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 5, 6]"
+h4_Z30_C1_23,30,TIMEOUT,UNDETERMINED,False,3,False,"ord(d) odd, not obstructed",,none found (capped),[],[15],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_24,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_25,30,SAT,SAT,False,6,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_26,30,TIMEOUT,UNDETERMINED,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],[15],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_27,30,TIMEOUT,UNDETERMINED,False,15,False,"ord(d) odd, not obstructed",,none found (capped),[],[15],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_28,30,TIMEOUT,UNDETERMINED,False,5,False,"ord(d) odd, not obstructed",,none found (capped),[],[15],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_29,30,TIMEOUT,UNDETERMINED,False,15,False,"ord(d) odd, not obstructed",,none found (capped),[],[10],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_3,30,TIMEOUT,UNDETERMINED,False,15,False,"ord(d) odd, not obstructed",,none found (capped),[],[10],"[2, 3, 5, 6, 10, 15]"
+h4_Z30_C1_4,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_5,30,SAT,SAT,False,6,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_6,30,TIMEOUT,SAT,False,15,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 5, 6]"
+h4_Z30_C1_7,30,SAT,SAT,False,30,True,ord(d) even,2,found,[2],[],[2]
+h4_Z30_C1_8,30,SAT,SAT,False,3,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 5, 6]"
+h4_Z30_C1_9,30,SAT,SAT,False,10,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_0,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_1,32,SAT,SAT,False,8,True,ord(d) even,8,found,[8],[],[8]
+h4_Z32_C1_10,32,SAT,SAT,False,8,True,ord(d) even,8,found,[8],[],[8]
+h4_Z32_C1_11,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_12,32,SAT,SAT,False,4,True,ord(d) even,16,found,[16],[],[16]
+h4_Z32_C1_13,32,SAT,SAT,False,4,True,ord(d) even,16,found,[16],[],[16]
+h4_Z32_C1_14,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_15,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_16,32,SAT,SAT,False,16,True,ord(d) even,4,found,[4],[],[4]
+h4_Z32_C1_17,32,TIMEOUT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_18,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_19,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_2,32,TIMEOUT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_20,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_21,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_22,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_23,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_24,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_25,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_26,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_27,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_28,32,SAT,SAT,False,8,True,ord(d) even,8,found,[8],[],[8]
+h4_Z32_C1_29,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_3,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_4,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_5,32,SAT,SAT,False,8,True,ord(d) even,8,found,[8],[],[8]
+h4_Z32_C1_6,32,SAT,SAT,False,8,True,ord(d) even,8,found,[8],[],[8]
+h4_Z32_C1_7,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_8,32,SAT,SAT,False,32,True,ord(d) even,2,found,[2],[],[2]
+h4_Z32_C1_9,32,SAT,SAT,False,16,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_0,36,TIMEOUT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z36_C1_1,36,SAT,SAT,False,18,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_10,36,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_11,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_12,36,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_13,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_14,36,SAT,SAT,False,4,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_15,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_16,36,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z36_C1_17,36,SAT,SAT,False,18,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_18,36,SAT,SAT,False,18,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_19,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_2,36,TIMEOUT,SAT,False,18,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_20,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_21,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_22,36,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_23,36,TIMEOUT,UNDETERMINED,False,3,False,"ord(d) odd, not obstructed",,none found (capped),[],"[2, 3, 4, 6, 9, 12, 18]","[2, 3, 4, 6, 9, 12, 18]"
+h4_Z36_C1_24,36,SAT,SAT,False,18,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_25,36,SAT,SAT,False,18,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_26,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_27,36,SAT,SAT,False,18,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_28,36,SAT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z36_C1_29,36,SAT,SAT,False,6,True,ord(d) even,4,found,[4],[],[4]
+h4_Z36_C1_3,36,SAT,SAT,False,12,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_4,36,TIMEOUT,UNDETERMINED,False,3,False,"ord(d) odd, not obstructed",,none found (uncapped),[],[],"[2, 3, 4, 6, 9, 12, 18]"
+h4_Z36_C1_5,36,TIMEOUT,SAT,False,9,False,"ord(d) odd, not obstructed",12,found,[12],[],"[2, 3, 4, 6, 9, 12]"
+h4_Z36_C1_6,36,TIMEOUT,UNDETERMINED,False,3,False,"ord(d) odd, not obstructed",,none found (capped),[],[18],"[2, 3, 4, 6, 9, 12, 18]"
+h4_Z36_C1_7,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]
+h4_Z36_C1_8,36,TIMEOUT,SAT,False,9,False,"ord(d) odd, not obstructed",6,found,[6],[],"[2, 3, 4, 6]"
+h4_Z36_C1_9,36,SAT,SAT,False,36,True,ord(d) even,2,found,[2],[],[2]

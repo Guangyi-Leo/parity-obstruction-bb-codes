@@ -1,0 +1,18 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{Depth-6 outcome of the class-C1 instances, by region.  A call that hit the cap is UNDETERMINED and is never reported as UNSAT; a timeout later settled by a verified twisted witness is counted under SAT (template witness).}
+\label{tabS:c1}
+\begin{tabular}{lrrrrr}
+\toprule
+region & SAT (solver) & SAT (template witness) & UNSAT & UNDETERMINED & total \\
+\midrule
+ord$(d)$ even & 262 & 3 & 0 & 0 & 265 \\
+ord$(d)$ odd, mod-4 obstructed & 0 & 0 & 131 & 80 & 211 \\
+ord$(d)$ odd, not obstructed & 25 & 5 & 62 & 30 & 122 \\
+total & 287 & 8 & 193 & 110 & 598 \\
+\bottomrule
+\end{tabular}
+\\[2pt]\begin{minipage}{\linewidth}\footnotesize Solver time limit 600\,s, single-threaded.\end{minipage}
+\end{table}

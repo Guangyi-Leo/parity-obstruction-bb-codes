@@ -1,0 +1,39 @@
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{The $k=l=3$ sweep at depth 6. Every sweep group has $|G|\leq 8<9=kl$, so no sweep instance can have distinct sums.}
+\label{tabS:sweep}
+\begin{tabular}{lrrrrrr}
+\toprule
+group & $|G|$ & $\max|P(\delta)|$ & \#inst. & \#SAT & \#UNSAT & \#timeout \\
+\midrule
+Z2xZ2 & 4 & 3 & 9 & 9 & 0 & 0 \\
+Z4 & 4 & 3 & 9 & 9 & 0 & 0 \\
+Z6 & 6 & 2 & 72 & 72 & 0 & 0 \\
+Z6 & 6 & 3 & 28 & 27 & 1 & 0 \\
+Z2xZ2xZ2 & 8 & 2 & 378 & 378 & 0 & 0 \\
+Z2xZ2xZ2 & 8 & 3 & 63 & 63 & 0 & 0 \\
+Z2xZ4 & 8 & 2 & 378 & 378 & 0 & 0 \\
+Z2xZ4 & 8 & 3 & 63 & 63 & 0 & 0 \\
+Z8 & 8 & 2 & 378 & 378 & 0 & 0 \\
+Z8 & 8 & 3 & 63 & 63 & 0 & 0 \\
+\textbf{total} &  &  & 1441 & 1440 & 1 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% requires: \usepackage{booktabs,amsmath,amssymb}
+\begin{table}[tb]
+\centering
+\small
+\caption{The only sweep instance refuted at depth 6. $A=B$ is the index-2 subgroup of $\mathbb{Z}_6$, and it carries the componentwise parity obstruction of Theorem 1.}
+\label{tabS:sweep-unsat}
+\begin{tabular}{llllcrlr}
+\toprule
+instance & group & $A$ & $B$ & $|P(\delta)|$ hist. & $\max(H_XH_Z^{\mathsf T})$ & status & $t$ (s) \\
+\midrule
+sw\_Z6\_A0-2-4\_B0-2-4 & Z6 & $\{(0),(2),(4)\}$ & $\{(0),(2),(4)\}$ & \{"3": 3\} & 6 & UNSAT & 514 \\
+\bottomrule
+\end{tabular}
+\end{table}

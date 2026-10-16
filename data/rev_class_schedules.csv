@@ -1,0 +1,17 @@
+what,depth,proper,run,script,args,seconds
+"C1 code, q=2 template pulled back along y mod 2",6,True,demo72,demo72.py,,0.3
+Table I,7,True,check_tableI,independent_check.py,tableI,0.8
+Table I,7,True,check_tableI,independent_check.py,tableI,0.8
+Table I,7,True,check_tableI,independent_check.py,tableI,0.8
+Table I,7,True,check_tableI,independent_check.py,tableI,0.8
+Table I,7,True,check_tableI,independent_check.py,tableI,0.8
+Table I,7,True,check_tableI,independent_check.py,tableI,0.8
+Table I,7,True,check_tableI,independent_check.py,tableI,0.8
+Table S3 pulled back along g mod 2,6,True,check_z14,independent_check.py,z14,49.2
+solver,6,True,check_z14,independent_check.py,z14,49.2
+"[[144,8,10]] Z12xZ6 pulled-back schedule",6,True,demo144,demo144.py,,17.3
+"[[144,16,6]] Z12xZ6 pulled-back schedule",6,True,demo144,demo144.py,,17.3
+"[[108,12,6]] Z54 pulled-back schedule",6,True,demo144,demo144.py,,17.3
+"[[108,4,12]] Z9xZ6 pulled-back schedule",6,True,demo144,demo144.py,,17.3
+"[[144,12,8]] Z72 pulled-back schedule",6,True,demo144b,demo144b.py,,11.3
+"[[144,16,6]] Z72 pulled-back schedule",6,True,demo144b,demo144b.py,,11.3

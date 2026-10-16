@@ -1,0 +1,379 @@
+{
+ "generated": "2026-10-15T04:55:43",
+ "tables": [
+  {
+   "output": [
+    "tables/tabS1_instances.tex"
+   ],
+   "section": "si",
+   "label": "tabS:instances",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tabS2_sharpness.tex"
+   ],
+   "section": "si",
+   "label": "tabS:sharpness",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tabS3_sweep.tex"
+   ],
+   "section": "si",
+   "label": "tabS:sweep",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tabS4_c1.tex"
+   ],
+   "section": "si",
+   "label": "tabS:c1",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tabS5_lemmas.tex"
+   ],
+   "section": "si",
+   "label": "tabS:lemmas",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tabS6_templates.tex"
+   ],
+   "section": "si",
+   "label": "tabS:templates",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tabS7_groups.tex"
+   ],
+   "section": "si",
+   "label": "tabS:groups",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tabS8_depth7_schedule.tex"
+   ],
+   "section": "si",
+   "label": "tabS:depth7",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tab_certificates.tex"
+   ],
+   "section": "main",
+   "label": "tab:certificates",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tab_certificates_body.tex"
+   ],
+   "section": "main",
+   "label": "",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tab_template_m2.tex"
+   ],
+   "section": "main",
+   "label": "tabS:templatem2",
+   "generated_by": "twoblock.make_tables"
+  },
+  {
+   "output": [
+    "tables/tab_template_m2_checks.tex"
+   ],
+   "section": "main",
+   "label": "tabS:templatem2checks",
+   "generated_by": "twoblock.make_tables"
+  }
+ ],
+ "rule": "every plotted number is read from the listed inputs; the value of every one of them is written to figures/figure_values.csv and re-derived in CHECK.md",
+ "fonts": "TeX Gyre Heros (Helvetica metrics), pdf.fonttype=42",
+ "png_dpi": 600,
+ "entries": [
+  {
+   "output": [
+    "figures/fig1_degree_bound_to_cross_term.pdf",
+    "figures/fig1_degree_bound_to_cross_term.png"
+   ],
+   "section": "main",
+   "label": "fig:setup",
+   "aliases": [
+    "fig1_setup_certificate"
+   ],
+   "inputs": [
+    "data/fig1_scene.json",
+    "data/fig1_violation.csv",
+    "schedules/bb72_d7_inv.json"
+   ],
+   "function": "round7.build_fig1",
+   "width_mm": 180.0,
+   "height_mm": 110.0,
+   "description": "The model, the two-qubit overlap constraint, a depth-6 colouring that fails it, and the depth-7 schedule that meets it. The lattice and the two circuit insets are built from data/fig1_scene.json; the violating overlap pair is data/fig1_violation.csv (bb72, N = 36, Delta = 6) and the depth-7 schedule is schedules/bb72_d7_inv.json. A depth-Delta colouring exists but cannot be proper: the two corners of one overlap pair take opposite orientations, so their parities do not cancel.",
+   "notes": [
+    "the depth-6 colouring drawn is a global proper 6-edge-colouring of all 432 edges; only properness fails"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/fig2_why_six_layers_fail.pdf",
+    "figures/fig2_why_six_layers_fail.png"
+   ],
+   "section": "main",
+   "label": "fig:mechanism",
+   "aliases": [
+    "fig2_mechanism"
+   ],
+   "inputs": [
+    "data/fig2_scene.json",
+    "data/lemma_checks.csv"
+   ],
+   "function": "round7.build_fig2",
+   "width_mm": 180.0,
+   "height_mm": 78.0,
+   "description": "The four ingredients of the lower bound, and the one change that makes depth six attainable. The staircase is built from data/fig2_scene.json; a + b = Delta + 1 is verified on all 417 enumerated schedules of data/lemma_checks.csv. F_L + F_R = 9 is odd while a proper schedule needs F_L = F_R, so depth Delta is impossible when the overlaps are two-qubit.",
+   "notes": [
+    "gamma(i) is a property of the model (MODEL.md), not of a data file",
+    "the right-hand cap states the 2-height hypothesis of Theorem 15"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/fig3_where_depth6_is_attainable.pdf",
+    "figures/fig3_where_depth6_is_attainable.png"
+   ],
+   "section": "main",
+   "label": "fig:sharpness",
+   "aliases": [
+    "fig3_decision_tree"
+   ],
+   "inputs": [
+    "data/fig3_scene.json",
+    "data/coverage.csv",
+    "data/thm_six_coverage.csv",
+    "data/c1_odd_unobstructed_certs.csv",
+    "build_tex/main.aux"
+   ],
+   "function": "round7.build_fig3",
+   "width_mm": 180.0,
+   "height_mm": 75.0,
+   "description": "Minimum depth of a proper schedule by collision structure. 664 instances with a recorded depth-6 outcome, read from data/coverage.csv; the even-order column is data/thm_six_coverage.csv and the certified share of the solver refutations is data/c1_odd_unobstructed_certs.csv. Two of the three columns are settled by a theorem for their whole class; the odd-order column is decided instance by instance and 30 are open.",
+   "notes": [
+    "the even-order cells were merged: the 2-height lemma covers the whole class",
+    "the supplementary table is quoted by the number LaTeX printed, read from build_tex/main.aux"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/figS1_proof_map.pdf",
+    "figures/figS1_proof_map.png"
+   ],
+   "section": "si",
+   "label": "figS:proofmap",
+   "aliases": [
+    "fig2_proof_map"
+   ],
+   "inputs": [
+    "data/instances.csv",
+    "data/c1_final.csv",
+    "data/thm_six_coverage.csv",
+    "templates/C1_m*.json",
+    "data/template_force.csv",
+    "data/cor3_hgp.csv",
+    "data/pareto_front.csv",
+    "build_tex/main.aux"
+   ],
+   "function": "manuscript_figs.fig2",
+   "width_mm": 180.0,
+   "height_mm": 232.0,
+   "description": "What depends on what: the three general obstructions, the main chain and the depth-six chain. Counts are read from data/instances.csv, data/c1_final.csv and data/thm_six_coverage.csv; the largest enumerated modulus from templates/C1_m*.json. The three obstructions are parallel consequences of M_pi = 0; only the depth-six chain rests on computation.  The two corollaries of the mod-4 theorem quote data/cor3_hgp.csv, the template chain data/template_force.csv and the competitive codes data/pareto_front.csv.",
+   "notes": [
+    "solid = proved, dashed = computational evidence, dotted = open"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/figS2_sweep_by_group.pdf",
+    "figures/figS2_sweep_by_group.png"
+   ],
+   "section": "si",
+   "label": "figS:sweep",
+   "aliases": [
+    "fig_sweep_by_group"
+   ],
+   "inputs": [
+    "data/sweep.csv"
+   ],
+   "function": "si_figs.fig_sweep_by_group",
+   "width_mm": 88.0,
+   "height_mm": 76.0,
+   "description": "Depth-6 outcome of the exhaustive sweep, by group and by the largest sum multiplicity S(delta). 1,441 instances of data/sweep.csv over six abelian groups of order at most 8. Only one sweep instance is UNSAT at depth 6, and no sweep group has distinct sums.",
+   "notes": [],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/figS3_templates_by_q.pdf",
+    "figures/figS3_templates_by_q.png"
+   ],
+   "section": "si",
+   "label": "figS:templates",
+   "aliases": [
+    "fig_templates_by_m"
+   ],
+   "inputs": [
+    "templates/C1_m2.json",
+    "templates/C1_m3.json",
+    "templates/C1_m4.json",
+    "templates/C1_m5.json",
+    "templates/C1_m6.json",
+    "templates/C1_m8.json"
+   ],
+   "function": "si_figs.fig_templates_by_q",
+   "width_mm": 88.0,
+   "height_mm": 88.0,
+   "description": "Exhaustive epsilon-template outcome by twist modulus q. Every epsilon-vector at q = 2, 3, 4, 5, 6, 8 (144 to 9,216 per modulus) from templates/C1_m*.json; q = 7, 9\u201312 and 16 were not computed. No vector with |M| odd admits a depth-6 twisted schedule at any q.",
+   "notes": [
+    "the figure aborts if the |M| odd row is ever non-zero"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/figS4_periods.pdf",
+    "figures/figS4_periods.png"
+   ],
+   "section": "si",
+   "label": "figS:periods",
+   "aliases": [
+    "fig_periods"
+   ],
+   "inputs": [
+    "data/mstar.csv",
+    "data/coverage.csv"
+   ],
+   "function": "si_figs.fig_periods",
+   "width_mm": 88.0,
+   "height_mm": 80.0,
+   "description": "Smallest proper divisor q* of N carrying a verified twisted schedule. The class-C1 instances data/coverage.csv records as satisfiable at depth 6, with q* from data/mstar.csv. Every q* found is even; 6 instances have no period within the cap.",
+   "notes": [
+    "log scale with a count on every bar, so the small bars stay readable"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/figS5_theorem1_profile.pdf",
+    "figures/figS5_theorem1_profile.png"
+   ],
+   "section": "si",
+   "label": "figS:mod4",
+   "aliases": [
+    "fig_theorem1_profile"
+   ],
+   "inputs": [
+    "data/h1_predictions.csv",
+    "data/coverage.csv",
+    "data/c1_final_instances.csv"
+   ],
+   "function": "si_figs.fig_theorem1_profile",
+   "width_mm": 88.0,
+   "height_mm": 116.0,
+   "description": "Where the componentwise mod-4 condition obstructs, and the resolved status of the same instances. 598 class-C1 instances joined from data/h1_predictions.csv and data/coverage.csv. Obstruction coincides exactly with the residue 2 and ord(d) odd on this set, and no obstructed instance is satisfiable.",
+   "notes": [
+    "the figure aborts if an obstructed instance is drawn as SAT"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/figS6_certificates.pdf",
+    "figures/figS6_certificates.png"
+   ],
+   "section": "si",
+   "label": "figS:certificates",
+   "aliases": [
+    "fig5_certificates",
+    "figS1_certificates"
+   ],
+   "inputs": [
+    "data/results.csv",
+    "data/r4_no_reversal.csv"
+   ],
+   "function": "manuscript_figs.fig5",
+   "width_mm": 180.0,
+   "height_mm": 90.0,
+   "description": "Cost of the depth-6 certificates, with and without the layer-reversal clause. The eight depth-6 refutations of data/results.csv paired with the reversal-clause-free runs of data/r4_no_reversal.csv. The refutations survive removal of the only symmetry-breaking clause, at a modest cost in time and proof size.",
+   "notes": [
+    "MB = 10^6 bytes; Table I reports the values without the clause"
+   ],
+   "layout_check": "PASS"
+  },
+  {
+   "output": [
+    "figures/figS7_pipeline.pdf"
+   ],
+   "section": "si",
+   "label": "figS:pipeline",
+   "aliases": [
+    "fig_architecture"
+   ],
+   "inputs": [],
+   "function": "",
+   "description": "Pipeline / architecture overview (original Fig. 1, to be restyled).",
+   "notes": [
+    "source not in this repository: no fig_architecture script, figure or data file exists under stab-qram/ or stab-qram/repo/."
+   ],
+   "layout_check": "NOT BUILT"
+  },
+  {
+   "output": [
+    "figures/figS8_depth_scaling.pdf"
+   ],
+   "section": "si",
+   "label": "figS:depthscaling",
+   "aliases": [
+    "depth_analysis_ab"
+   ],
+   "inputs": [],
+   "function": "",
+   "description": "Depth scaling (original, to be restyled).",
+   "notes": [
+    "source not in this repository: no depth_analysis_ab script, figure or data file exists."
+   ],
+   "layout_check": "NOT BUILT"
+  },
+  {
+   "output": [
+    "figures/figS9_locality.pdf"
+   ],
+   "section": "si",
+   "label": "figS:locality",
+   "aliases": [
+    "locality_2d_heatmap_analysis"
+   ],
+   "inputs": [],
+   "function": "",
+   "description": "Locality heat map (original, to be restyled).",
+   "notes": [
+    "source not in this repository: no locality_2d_heatmap_analysis script, figure or data file exists."
+   ],
+   "layout_check": "NOT BUILT"
+  }
+ ]
+}

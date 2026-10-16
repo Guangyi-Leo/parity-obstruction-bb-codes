@@ -1,0 +1,5 @@
+role,kind,side,label,layer,check_g,qubit_h,corner,orientation,pair_xor,N,Delta,instance
+X,X,L,2,1,0,1,L,1,1,36,6,bb72
+Z,Z,L,1,5,4,1,L,1,1,36,6,bb72
+X,X,R,1,6,0,3,R,0,1,36,6,bb72
+Z,Z,R,2,2,4,3,R,0,1,36,6,bb72

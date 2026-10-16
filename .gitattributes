@@ -1,0 +1,8 @@
+*.cnf.xz   -diff -text
+*.pdf      -diff -text
+*.png      -diff -text
+*.otf      -diff -text
+*.csv      text eol=lf
+*.py       text eol=lf
+*.sh       text eol=lf
+*.tex      text eol=lf

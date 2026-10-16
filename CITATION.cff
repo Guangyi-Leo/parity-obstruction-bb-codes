@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "A parity obstruction to degree-optimal syndrome extraction in bivariate bicycle codes — code and data"
+abstract: >-
+  Reproducible code, data, SAT certificates and figures for the study of the
+  interleaved syndrome-extraction depth of two-block (bivariate bicycle)
+  quantum LDPC codes: the degree bound, the distinct-sums obstruction at
+  depth six, the componentwise mod-4 obstruction and its two corollaries, the
+  2-height lemma and the twisted-schedule construction, the class-schedule
+  template search up to modulus 512, the code search behind the Pareto tables,
+  and eighteen machine-checked DRAT refutations.
+authors:
+  - family-names: Li
+    given-names: Guangyi
+    email: guangyi@umd.edu
+    affiliation: "Joint Center for Quantum Information and Computer Science, and Department of Computer Science, University of Maryland, College Park, MD 20742, USA"
+  - family-names: Gan
+    given-names: Yu
+    affiliation: "Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, USA"
+  - family-names: Wu
+    given-names: Zeguan
+    affiliation: "Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, USA"
+  - family-names: Zhang
+    given-names: Xueyue
+    affiliation: "Department of Applied Physics and Applied Mathematics, Columbia University, New York, NY 10027, USA"
+  - family-names: Zhang
+    given-names: Zheshen
+    affiliation: "Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI 48109, USA"
+  - family-names: Liu
+    given-names: Junyu
+    email: junyuliu@pitt.edu
+    affiliation: "Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, USA"
+version: 3.0.0
+date-released: "2026-10-15"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "https://github.com/Guangyi-Leo/A-parity-obstruction-to-degree-optimal-syndrome-extraction-in-bivariate-bicycle-codes"
+doi: 10.5281/zenodo.XXXXXXXX   # PLACEHOLDER: replace with the DOI Zenodo mints
+                               # for this version, then update the same
+                               # placeholder in main.tex (Data availability)
+keywords:
+  - quantum error correction
+  - bivariate bicycle codes
+  - quantum LDPC
+  - syndrome extraction
+  - SAT solving
+  - DRAT proofs

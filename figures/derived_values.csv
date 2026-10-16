@@ -1,0 +1,83 @@
+name,value,expression,source
+c1_ord_d_odd_total,333,count(rows where ord_d_even == False),data/c1_final_instances.csv
+c1_ord_d_odd_obstructed,211,count(rows where ord_d_even == False and theorem1_obstructed == True),data/c1_final_instances.csv
+c1_ord_d_odd_unobstructed,122,count(rows where ord_d_even == False and theorem1_obstructed == False),data/c1_final_instances.csv
+c1_ord_d_even_total,265,count(rows where ord_d_even == True),data/c1_final_instances.csv
+sym_solve_min_s,1.389,min(time) over the 7 IBM depth-6 refutations with the layer-reversal clause (certs/),data/results.csv
+sym_solve_max_s,5.94,max(time) over the 7 IBM depth-6 refutations with the layer-reversal clause (certs/),data/results.csv
+sym_proof_min_MB,12.866818,min(proof_bytes)/1e6 over the 7 IBM depth-6 refutations with the layer-reversal clause (certs/),data/results.csv
+sym_proof_max_MB,51.978429,max(proof_bytes)/1e6 over the 7 IBM depth-6 refutations with the layer-reversal clause (certs/),data/results.csv
+nosym_solve_min_s,1.435,min(time) over the 7 IBM depth-6 refutations without the clause (certs_nosym/),data/r4_no_reversal.csv
+nosym_solve_max_s,6.294,max(time) over the 7 IBM depth-6 refutations without the clause (certs_nosym/),data/r4_no_reversal.csv
+nosym_proof_min_MB,17.804247,min(proof_bytes)/1e6 over the 7 IBM depth-6 refutations without the clause (certs_nosym/),data/r4_no_reversal.csv
+nosym_proof_max_MB,67.965597,max(proof_bytes)/1e6 over the 7 IBM depth-6 refutations without the clause (certs_nosym/),data/r4_no_reversal.csv
+nosym_all_solve_min_s,1.435,min(time) over all 9 rows without the clause (certs_nosym/),data/r4_no_reversal.csv
+nosym_all_solve_max_s,6.294,max(time) over all 9 rows without the clause (certs_nosym/),data/r4_no_reversal.csv
+nosym_all_proof_min_MB,17.804247,min(proof_bytes)/1e6 over all 9 rows without the clause (certs_nosym/),data/r4_no_reversal.csv
+nosym_all_proof_max_MB,67.965597,max(proof_bytes)/1e6 over all 9 rows without the clause (certs_nosym/),data/r4_no_reversal.csv
+t2_layerings_per_instance,300,"n_layerings, identical for every T2 instance",data/t7_model_coverage.csv
+t2_layerings_total,600,sum(n_layerings) over the T2 rows,data/t7_model_coverage.csv
+t2_instances,2,count(T2 rows),data/t7_model_coverage.csv
+coverage_theorem_excluded,250,count(status_math == 'UNSAT-theorem'),data/coverage.csv
+coverage_drat_verified,16,"count(drat_verified) -- certificates on record, any category",data/coverage.csv
+coverage_unsat_cert,0,count(status_math == 'UNSAT-cert') -- the partition class,data/coverage.csv
+coverage_solver_only_unsat,62,count(status_math == 'UNSAT-solver'),data/coverage.csv
+coverage_solver_unsat_certified,6,count(status_math == 'UNSAT-solver' and drat_verified),data/coverage.csv
+coverage_solver_unsat_uncertified,56,count(status_math == 'UNSAT-solver' and not drat_verified),data/coverage.csv
+coverage_capped_but_excluded,80,count(status_solver == 'capped' and status_math == 'UNSAT-theorem'),data/coverage.csv
+coverage_open,30,count(status_math == 'open'),data/coverage.csv
+h2_class_D_count,28,count(class == 'D' and source == 'h2_sharpness.csv'),data/coverage.csv
+sharpness_map_total,664,count(in_sharpness_map) -- the population of the sharpness map,data/coverage.csv
+sweep_class_other,432,count(source == 'sweep.csv' and class == 'other'),data/coverage.csv
+template_m2_N,14,N of the chosen m = 2 template,data/template_main.csv
+template_m2_n_qubits,28,n_qubits of the chosen m = 2 template,data/template_main.csv
+template_m2_k_logical,6,k_logical of the chosen m = 2 template,data/template_main.csv
+template_m2_m,2,m of the chosen m = 2 template,data/template_main.csv
+template_m2_n_constraints,24,n_constraints of the chosen m = 2 template,data/template_main.csv
+b2_schedules_found,323,count(result == 'found'),data/b2_twisted_outside_c1.csv
+b2_instances_with_schedule,27,distinct instances with a twisted schedule,data/b2_twisted_outside_c1.csv
+b2_distinct_absM,11,distinct |M| values among them,data/b2_twisted_outside_c1.csv
+b2_odd_absM,0,schedules with |M| odd (must be 0),data/b2_twisted_outside_c1.csv
+b2_capped,29,count(result == 'capped') -- never read as absence,data/b2_twisted_outside_c1.csv
+twisted_identity_cosets,12931,count(rows),data/twisted_identity.csv
+twisted_identity_witnesses,289,distinct witnesses,data/twisted_identity.csv
+twisted_identity_template_keys,11412,sum over m of the distinct template keys at that m,data/twisted_identity.csv
+twisted_identity_failures,0,count(equal != True) -- must be 0,data/twisted_identity.csv
+c1_even_sat_solver,262,"count(class C1, ord(d) even, status_math == 'SAT-solver')",data/coverage.csv
+c1_even_sat_witness,3,"count(class C1, ord(d) even, status_math == 'SAT-witness')",data/coverage.csv
+periodicity_invariant,5,count(klass == 'invariant'),data/r6_periodicity.csv
+periodicity_twisted,72,count(klass == 'twisted'),data/r6_periodicity.csv
+periodicity_other,340,count(klass == 'other'),data/r6_periodicity.csv
+periodicity_total,417,count(rows),data/r6_periodicity.csv
+crosscheck_rows,17,count(rows),data/solver_crosscheck.csv
+crosscheck_agree,16,"count(rows where cadical_status == glucose_status, both decided)",data/solver_crosscheck.csv
+bravyi_invariant_depth7_schedules,8496,"translation-invariant proper depth-7 schedules, from bravyi_cycle.py",data/rev_bravyi_cycle.csv
+bravyi_invariant_depth7_orbits,41,their orbits under label perms x reversal x duality x block swap,data/rev_bravyi_cycle.csv
+pullback_keys_q2,72,"admissible keys at q = 2, all verified by F2 simulation",data/rev_pullback.csv
+pullback_degenerate_q2,72,"of those, with a repeated entry",data/rev_pullback.csv
+pullback_keys_q4,864,"admissible keys at q = 4, all verified by F2 simulation",data/rev_pullback.csv
+pullback_degenerate_q4,648,"of those, with a repeated entry",data/rev_pullback.csv
+template_reps_q2,2,key representatives under the three symmetries at q = 2,data/rev_key_representatives.csv
+template_reps_q4,5,key representatives under the three symmetries at q = 4,data/rev_key_representatives.csv
+template_reps_q8,11,key representatives under the three symmetries at q = 8,data/rev_key_representatives.csv
+template_reps_q16,21,key representatives under the three symmetries at q = 16,data/rev_key_representatives.csv
+template_reps_q32,39,key representatives under the three symmetries at q = 32,data/rev_key_representatives.csv
+template_reps_q64,73,key representatives under the three symmetries at q = 64,data/rev_key_representatives.csv
+template_reps_q128,139,key representatives under the three symmetries at q = 128,data/rev_key_representatives.csv
+template_reps_q256,269,key representatives under the three symmetries at q = 256,data/rev_key_representatives.csv
+template_reps_q512,527,key representatives under the three symmetries at q = 512,data/rev_key_representatives.csv
+template_force_qmax,512,largest modulus with every class SAT under the fixed involutions,data/template_force.csv
+template_force_keys_qmax,512,keys decided at that modulus,data/template_force.csv
+cor3_hgp_n1,98,physical qubits of the Corollary 3 example circulant_7,data/cor3_hgp.csv
+cor3_hgp_k1,18,logical qubits of circulant_7,data/cor3_hgp.csv
+cor3_hgp_n2,450,physical qubits of the Corollary 3 example circulant_15,data/cor3_hgp.csv
+cor3_hgp_k2,32,logical qubits of circulant_15,data/cor3_hgp.csv
+typed_parity_quarter_q16,4,"values of b at q = 16 admitting a schedule that depends on c only through (c mod 2, floor(4c/q))",data/rev_sigma_negative.csv
+typed_mod4_half_q16,2,"and only through (c mod 4, 1[c >= q/2])",data/rev_sigma_negative.csv
+typed_sigma_half_q16,16,values of b admitting the type-dependent half-period symmetry,data/rev_sigma_negative.csv
+odd_cert_seconds[Z45],967,"kissat refutation of the Z45 [[90,12,6]] instance, s",data/odd_order_certs.csv
+odd_cert_GB[Z45],2.4,"its drat-trim verified DRAT proof, GB",data/odd_order_certs.csv
+odd_cert_seconds[Z15xZ3],600,"kissat refutation of the Z15xZ3 [[90,12,6]] instance, s",data/odd_order_certs.csv
+odd_cert_GB[Z15xZ3],2.8,"its drat-trim verified DRAT proof, GB",data/odd_order_certs.csv
+sweep_census_orbits,33,sum of the per-group orbit counts,data/sweep_census.csv
+sweep_odd_pairs,1830,sum of orbit_size over the orbit representatives,data/sweep_odd.csv

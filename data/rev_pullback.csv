@@ -1,0 +1,3 @@
+q,M,keys,degenerate,verified,total,all_verified,failures,run,script,args,seconds
+2,7,72,72,72,72,True,,pullback_q2_M7,pullback_demo.py,2 7,1.1
+4,7,864,648,864,864,True,,pullback_q4_M7,pullback_demo.py,4 7,27.0

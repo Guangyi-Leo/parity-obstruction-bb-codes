@@ -1,0 +1,47 @@
+{
+ "n_checked": 669,
+ "corrected_identity": "n4 + 3*n6 = N * sum_delta C(|P(delta)|,2)",
+ "corrected_holds_on_all": true,
+ "stated_identity": "n4 + 2*n6 = N * sum_delta C(|P(delta)|,2)",
+ "stated_fails_on": [
+  {
+   "instance": "h2_Z10_C2_2",
+   "n4_plus_2n6": 20,
+   "rhs": 30
+  },
+  {
+   "instance": "h2_Z12_subgroup",
+   "n4_plus_2n6": 72,
+   "rhs": 108
+  },
+  {
+   "instance": "h2_Z18_subgroup",
+   "n4_plus_2n6": 108,
+   "rhs": 162
+  },
+  {
+   "instance": "h2_Z24_C2_3",
+   "n4_plus_2n6": 48,
+   "rhs": 72
+  },
+  {
+   "instance": "sw73",
+   "n4_plus_2n6": 36,
+   "rhs": 54
+  }
+ ],
+ "reason": "a triple orbit (|P|=3) yields C(3,2)=3 unordered colliding pairs, so it contributes 3*N, not 2*N",
+ "class_counts": {
+  "C1": 598,
+  "C2": 28,
+  "D": 40,
+  "SG": 3
+ },
+ "labels": {
+  "D": "no 4-qubit overlaps",
+  "C1": "one collision orbit (N four-qubit overlaps)",
+  "C2": "two collision orbits or one triple orbit",
+  "SG": "subgroup type",
+  "other": "other"
+ }
+}

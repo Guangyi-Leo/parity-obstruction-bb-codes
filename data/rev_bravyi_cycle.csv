@@ -1,0 +1,9 @@
+item,code,depth,value,unit,run,script,args,seconds
+bravyi_table5,"[[72,12,6]]",7,True,M_pi==0,bravyi_cycle,bravyi_cycle.py,,16.8
+bravyi_table5,"[[144,12,12]]",7,True,M_pi==0,bravyi_cycle,bravyi_cycle.py,,16.8
+orientations_bravyi,,7,"([[0, 0, 0], [1, 1, 1], [0, 0, 0]], [[0, 0, 0], [1, 1, 1], [0, 0, 0]])","(o_L,o_R)",bravyi_cycle,bravyi_cycle.py,,16.8
+orientations_tableI,,7,"([[1, 1, 1], [1, 1, 1], [0, 0, 0]], [[1, 1, 1], [1, 1, 1], [0, 0, 0]])","(o_L,o_R)",bravyi_cycle,bravyi_cycle.py,,16.8
+tableI_in_bravyi_orbit,,7,False,bool,bravyi_cycle,bravyi_cycle.py,,16.8
+tableI_orbit_size,,7,288,schedules,bravyi_cycle,bravyi_cycle.py,,16.8
+invariant_depth7_schedules,,7,8496,schedules,bravyi_cycle,bravyi_cycle.py,,16.8
+invariant_depth7_orbits,,7,41,orbits,bravyi_cycle,bravyi_cycle.py,,16.8

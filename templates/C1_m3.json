@@ -1,0 +1,1 @@
+{"m": 3, "D": 6, "k": 3, "l": 3, "normalisation": "eps(a_1)=eps(b_1)=0 (0 in A and 0 in B, labels sorted)", "key_format": "s t - s' t' | eps(a_1),eps(a_2),eps(a_3) | eps(b_1),eps(b_2),eps(b_3)", "n_patterns": 18, "n_keys": 486, "n_sat": 0, "seconds": 40.4, "sat_keys": []}

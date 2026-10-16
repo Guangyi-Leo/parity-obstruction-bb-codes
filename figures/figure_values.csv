@@ -1,0 +1,236 @@
+figure,item,value,source,column,key
+fig3,leaf_n[D],35,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",D
+fig3,leaf_capped[D],0,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",D
+fig3,leaf_drat[D],9,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",D
+fig3,leaf_n[C1even],265,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1even
+fig3,leaf_capped[C1even],3,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1even
+fig3,leaf_drat[C1even],0,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1even
+fig3,leaf_n[C1odd_obs],211,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1odd_obs
+fig3,leaf_capped[C1odd_obs],80,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1odd_obs
+fig3,leaf_drat[C1odd_obs],0,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1odd_obs
+fig3,leaf_n[C1odd_free],122,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1odd_free
+fig3,leaf_capped[C1odd_free],35,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1odd_free
+fig3,leaf_drat[C1odd_free],6,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C1odd_free
+fig3,leaf_n[C2],28,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C2
+fig3,leaf_capped[C2],0,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C2
+fig3,leaf_drat[C2],0,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",C2
+fig3,leaf_n[SG],3,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",SG
+fig3,leaf_capped[SG],0,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",SG
+fig3,leaf_drat[SG],1,data/coverage.csv,"class,ord_d_parity,theorem,status_solver,drat_verified",SG
+fig3,even_d_not_in_8G,263,data/thm_six_coverage.csv,"in_8G,ord_d_parity","False,even"
+fig3,even_d_in_8G,2,data/thm_six_coverage.csv,"in_8G,ord_d_parity","True,even"
+fig3,c1_even_total,265,data/coverage.csv,"class,ord_d_parity","C1,even"
+fig3,odd_free_SAT,30,data/coverage.csv,status_math,odd_free_SAT
+fig3,odd_free_UNSAT,62,data/coverage.csv,status_math,odd_free_UNSAT
+fig3,odd_free_open,30,data/coverage.csv,status_math,odd_free_open
+fig3,odd_free_total,122,data/coverage.csv,status_math,odd_free_total
+fig3,odd_obstructed,211,data/coverage.csv,status_math,odd_obstructed
+fig3,distinct_sums_drat,9,data/coverage.csv,status_math,distinct_sums_drat
+fig3,odd_free_UNSAT_certified,6,data/c1_odd_unobstructed_certs.csv,verified,VERIFIED
+figS1,n_published_codes,7,data/instances.csv,family,IBM
+figS1,unexplained_UNSAT,62,data/c1_final.csv,UNSAT,"ord(d) odd, not obstructed"
+figS1,capped,30,data/c1_final.csv,UNDETERMINED,"ord(d) odd, not obstructed"
+figS1,odd_SAT,30,data/c1_final.csv,SAT (solver)+SAT (template witness),"ord(d) odd, not obstructed"
+figS1,template_q_max,8,templates/C1_m*.json,q,max
+figS1,template_q_forced,512,data/template_force.csv,q,max(all_sat)
+figS1,cor3_n[circulant_7],98,data/cor3_hgp.csv,n,circulant_7
+figS1,cor3_k[circulant_7],18,data/cor3_hgp.csv,k,circulant_7
+figS1,cor3_n[circulant_15],450,data/cor3_hgp.csv,n,circulant_15
+figS1,cor3_k[circulant_15],32,data/cor3_hgp.csv,k,circulant_15
+figS1,"pareto[C1-even,72,8]",6,data/pareto_front.csv,d,"C1-even,72,8"
+figS1,"pareto[C1-even,108,12]",6,data/pareto_front.csv,d,"C1-even,108,12"
+figS1,"pareto[C1-even,144,16]",6,data/pareto_front.csv,d,"C1-even,144,16"
+figS1,"pareto[C1-even,144,8]",10,data/pareto_front.csv,d,"C1-even,144,8"
+figS1,"pareto[C1-odd,72,8]",6,data/pareto_front.csv,d,"C1-odd,72,8"
+figS6,s[bb72],1.389,data/results.csv,time,bb72
+figS6,s_norev[bb72],4.046,data/r4_no_reversal.csv,time,bb72
+figS6,s[bb90],2.027,data/results.csv,time,bb90
+figS6,s_norev[bb90],4.213,data/r4_no_reversal.csv,time,bb90
+figS6,s[bb108],2.049,data/results.csv,time,bb108
+figS6,s_norev[bb108],4.827,data/r4_no_reversal.csv,time,bb108
+figS6,s[bb144],2.237,data/results.csv,time,bb144
+figS6,s_norev[bb144],3.602,data/r4_no_reversal.csv,time,bb144
+figS6,s[bb288],4.293,data/results.csv,time,bb288
+figS6,s_norev[bb288],1.435,data/r4_no_reversal.csv,time,bb288
+figS6,s[bb360],4.797,data/results.csv,time,bb360
+figS6,s_norev[bb360],6.294,data/r4_no_reversal.csv,time,bb360
+figS6,s[bb756],5.94,data/results.csv,time,bb756
+figS6,s_norev[bb756],3.32,data/r4_no_reversal.csv,time,bb756
+figS6,s[sw73],558.046,data/results.csv,time,sw73
+figS6,MB[bb72],12.866818,data/results.csv,proof_bytes,bb72
+figS6,MB_norev[bb72],24.255614,data/r4_no_reversal.csv,proof_bytes,bb72
+figS6,MB[bb90],20.261082,data/results.csv,proof_bytes,bb90
+figS6,MB_norev[bb90],40.954303,data/r4_no_reversal.csv,proof_bytes,bb90
+figS6,MB[bb108],20.781069,data/results.csv,proof_bytes,bb108
+figS6,MB_norev[bb108],51.733226,data/r4_no_reversal.csv,proof_bytes,bb108
+figS6,MB[bb144],23.082271,data/results.csv,proof_bytes,bb144
+figS6,MB_norev[bb144],34.965767,data/r4_no_reversal.csv,proof_bytes,bb144
+figS6,MB[bb288],46.354309,data/results.csv,proof_bytes,bb288
+figS6,MB_norev[bb288],17.804247,data/r4_no_reversal.csv,proof_bytes,bb288
+figS6,MB[bb360],51.978429,data/results.csv,proof_bytes,bb360
+figS6,MB_norev[bb360],67.965597,data/r4_no_reversal.csv,proof_bytes,bb360
+figS6,MB[bb756],46.501698,data/results.csv,proof_bytes,bb756
+figS6,MB_norev[bb756],46.165375,data/r4_no_reversal.csv,proof_bytes,bb756
+figS6,MB[sw73],2727.429491,data/results.csv,proof_bytes,sw73
+figS6,r4_verified,9,data/r4_no_reversal.csv,verified,
+S1,"SAT[Z2xZ2,<=3]",9,data/sweep.csv,status,"Z2xZ2,3"
+S1,"UNSAT[Z2xZ2,<=3]",0,data/sweep.csv,status,"Z2xZ2,3"
+S1,"SAT[Z4,<=3]",9,data/sweep.csv,status,"Z4,3"
+S1,"UNSAT[Z4,<=3]",0,data/sweep.csv,status,"Z4,3"
+S1,"SAT[Z6,<=2]",72,data/sweep.csv,status,"Z6,2"
+S1,"UNSAT[Z6,<=2]",0,data/sweep.csv,status,"Z6,2"
+S1,"SAT[Z6,<=3]",27,data/sweep.csv,status,"Z6,3"
+S1,"UNSAT[Z6,<=3]",1,data/sweep.csv,status,"Z6,3"
+S1,"SAT[Z2xZ2xZ2,<=2]",378,data/sweep.csv,status,"Z2xZ2xZ2,2"
+S1,"UNSAT[Z2xZ2xZ2,<=2]",0,data/sweep.csv,status,"Z2xZ2xZ2,2"
+S1,"SAT[Z2xZ2xZ2,<=3]",63,data/sweep.csv,status,"Z2xZ2xZ2,3"
+S1,"UNSAT[Z2xZ2xZ2,<=3]",0,data/sweep.csv,status,"Z2xZ2xZ2,3"
+S1,"SAT[Z2xZ4,<=2]",378,data/sweep.csv,status,"Z2xZ4,2"
+S1,"UNSAT[Z2xZ4,<=2]",0,data/sweep.csv,status,"Z2xZ4,2"
+S1,"SAT[Z2xZ4,<=3]",63,data/sweep.csv,status,"Z2xZ4,3"
+S1,"UNSAT[Z2xZ4,<=3]",0,data/sweep.csv,status,"Z2xZ4,3"
+S1,"SAT[Z8,<=2]",378,data/sweep.csv,status,"Z8,2"
+S1,"UNSAT[Z8,<=2]",0,data/sweep.csv,status,"Z8,2"
+S1,"SAT[Z8,<=3]",63,data/sweep.csv,status,"Z8,3"
+S1,"UNSAT[Z8,<=3]",0,data/sweep.csv,status,"Z8,3"
+S1,total_SAT,1440,data/sweep.csv,status,all
+S1,total_UNSAT,1,data/sweep.csv,status,all
+S2,n_keys[m=2],144,templates/C1_m2.json,n_keys,2
+S2,eps_d_in_8Zm[m=2],72,templates/C1_m2.json,"d-bar mod gcd(8,q)",2
+S2,"admit[m=2,$|M|$ odd]",0,templates/C1_m2.json,sat_keys,$|M|$ odd
+S2,"total[m=2,$|M|$ odd]",18,templates/C1_m2.json,n_keys,$|M|$ odd
+S2,"admit[m=2,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m2.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"total[m=2,$|M|$ even, $\bar{\mathsf{d}}=0$]",54,templates/C1_m2.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"admit[m=2,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",72,templates/C1_m2.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"total[m=2,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",72,templates/C1_m2.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"admit[m=2,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m2.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,"total[m=2,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m2.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,n_keys[m=3],486,templates/C1_m3.json,n_keys,3
+S2,eps_d_in_8Zm[m=3],486,templates/C1_m3.json,"d-bar mod gcd(8,q)",3
+S2,"admit[m=3,$|M|$ odd]",0,templates/C1_m3.json,sat_keys,$|M|$ odd
+S2,"total[m=3,$|M|$ odd]",486,templates/C1_m3.json,n_keys,$|M|$ odd
+S2,"admit[m=3,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m3.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"total[m=3,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m3.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"admit[m=3,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",0,templates/C1_m3.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"total[m=3,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",0,templates/C1_m3.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"admit[m=3,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m3.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,"total[m=3,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m3.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,n_keys[m=4],1152,templates/C1_m4.json,n_keys,4
+S2,eps_d_in_8Zm[m=4],288,templates/C1_m4.json,"d-bar mod gcd(8,q)",4
+S2,"admit[m=4,$|M|$ odd]",0,templates/C1_m4.json,sat_keys,$|M|$ odd
+S2,"total[m=4,$|M|$ odd]",18,templates/C1_m4.json,n_keys,$|M|$ odd
+S2,"admit[m=4,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m4.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"total[m=4,$|M|$ even, $\bar{\mathsf{d}}=0$]",270,templates/C1_m4.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"admit[m=4,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",864,templates/C1_m4.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"total[m=4,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",864,templates/C1_m4.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"admit[m=4,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m4.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,"total[m=4,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m4.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,n_keys[m=5],2250,templates/C1_m5.json,n_keys,5
+S2,eps_d_in_8Zm[m=5],2250,templates/C1_m5.json,"d-bar mod gcd(8,q)",5
+S2,"admit[m=5,$|M|$ odd]",0,templates/C1_m5.json,sat_keys,$|M|$ odd
+S2,"total[m=5,$|M|$ odd]",2250,templates/C1_m5.json,n_keys,$|M|$ odd
+S2,"admit[m=5,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m5.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"total[m=5,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m5.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"admit[m=5,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",0,templates/C1_m5.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"total[m=5,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",0,templates/C1_m5.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"admit[m=5,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m5.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,"total[m=5,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m5.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,n_keys[m=6],3888,templates/C1_m6.json,n_keys,6
+S2,eps_d_in_8Zm[m=6],1944,templates/C1_m6.json,"d-bar mod gcd(8,q)",6
+S2,"admit[m=6,$|M|$ odd]",0,templates/C1_m6.json,sat_keys,$|M|$ odd
+S2,"total[m=6,$|M|$ odd]",486,templates/C1_m6.json,n_keys,$|M|$ odd
+S2,"admit[m=6,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m6.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"total[m=6,$|M|$ even, $\bar{\mathsf{d}}=0$]",486,templates/C1_m6.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"admit[m=6,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",1944,templates/C1_m6.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"total[m=6,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",1944,templates/C1_m6.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"admit[m=6,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",468,templates/C1_m6.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,"total[m=6,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",972,templates/C1_m6.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,n_keys[m=8],9216,templates/C1_m8.json,n_keys,8
+S2,eps_d_in_8Zm[m=8],1152,templates/C1_m8.json,"d-bar mod gcd(8,q)",8
+S2,"admit[m=8,$|M|$ odd]",0,templates/C1_m8.json,sat_keys,$|M|$ odd
+S2,"total[m=8,$|M|$ odd]",18,templates/C1_m8.json,n_keys,$|M|$ odd
+S2,"admit[m=8,$|M|$ even, $\bar{\mathsf{d}}=0$]",0,templates/C1_m8.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"total[m=8,$|M|$ even, $\bar{\mathsf{d}}=0$]",1134,templates/C1_m8.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}=0$"
+S2,"admit[m=8,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",8064,templates/C1_m8.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"total[m=8,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even]",8064,templates/C1_m8.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ even"
+S2,"admit[m=8,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m8.json,sat_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S2,"total[m=8,$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd]",0,templates/C1_m8.json,n_keys,"$|M|$ even, $\bar{\mathsf{d}}\neq0$,
+ord$(\bar{\mathsf{d}})$ odd"
+S3,"q*=2,ord even",194,data/mstar.csv,"m_star,ord_d_even","2,even"
+S3,"q*=2,ord odd",0,data/mstar.csv,"m_star,ord_d_even","2,odd"
+S3,"q*=4,ord even",60,data/mstar.csv,"m_star,ord_d_even","4,even"
+S3,"q*=4,ord odd",0,data/mstar.csv,"m_star,ord_d_even","4,odd"
+S3,"q*=6,ord even",0,data/mstar.csv,"m_star,ord_d_even","6,even"
+S3,"q*=6,ord odd",20,data/mstar.csv,"m_star,ord_d_even","6,odd"
+S3,"q*=8,ord even",9,data/mstar.csv,"m_star,ord_d_even","8,even"
+S3,"q*=8,ord odd",0,data/mstar.csv,"m_star,ord_d_even","8,odd"
+S3,"q*=10,ord even",0,data/mstar.csv,"m_star,ord_d_even","10,even"
+S3,"q*=10,ord odd",1,data/mstar.csv,"m_star,ord_d_even","10,odd"
+S3,"q*=12,ord even",0,data/mstar.csv,"m_star,ord_d_even","12,even"
+S3,"q*=12,ord odd",2,data/mstar.csv,"m_star,ord_d_even","12,odd"
+S3,"q*=14,ord even",0,data/mstar.csv,"m_star,ord_d_even","14,even"
+S3,"q*=14,ord odd",1,data/mstar.csv,"m_star,ord_d_even","14,odd"
+S3,"q*=16,ord even",2,data/mstar.csv,"m_star,ord_d_even","16,even"
+S3,"q*=16,ord odd",0,data/mstar.csv,"m_star,ord_d_even","16,odd"
+S3,"none found (uncapped),ord even",0,data/mstar.csv,"m_star_kind,ord_d_even","none found (uncapped),even"
+S3,"none found (uncapped),ord odd",6,data/mstar.csv,"m_star_kind,ord_d_even","none found (uncapped),odd"
+S3,n_SAT_rows,295,data/mstar.csv,status_resolved,SAT
+S4,"cell[n%4=0,ord_even=False]",122,data/h1_predictions.csv + data/c1_final_instances.csv,"min_component_n,ord_d_even","(0, False)"
+S4,"cell[n%4=0,ord_even=True]",265,data/h1_predictions.csv + data/c1_final_instances.csv,"min_component_n,ord_d_even","(0, True)"
+S4,"cell[n%4=2,ord_even=False]",211,data/h1_predictions.csv + data/c1_final_instances.csv,"min_component_n,ord_d_even","(2, False)"
+S4,"status[(0, True)|SAT-solver]",262,data/coverage.csv,status_math,"(0, True)|SAT-solver"
+S4,"status[(0, True)|SAT-witness]",3,data/coverage.csv,status_math,"(0, True)|SAT-witness"
+S4,"status[(2, False)|UNSAT-theorem]",211,data/coverage.csv,status_math,"(2, False)|UNSAT-theorem"
+S4,"status[(0, False)|UNSAT-solver]",62,data/coverage.csv,status_math,"(0, False)|UNSAT-solver"
+S4,"status[(0, False)|SAT-solver]",25,data/coverage.csv,status_math,"(0, False)|SAT-solver"
+S4,"status[(0, False)|SAT-witness]",5,data/coverage.csv,status_math,"(0, False)|SAT-witness"
+S4,"status[(0, False)|open]",30,data/coverage.csv,status_math,"(0, False)|open"
+S4,obstructed_total,211,data/coverage.csv,theorem,nonempty
+S4,obstructed[UNSAT-theorem],211,data/coverage.csv,status_math,UNSAT-theorem

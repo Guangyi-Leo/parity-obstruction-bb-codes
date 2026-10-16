@@ -1,0 +1,5 @@
+q,sat,total,all_sat,log
+32,32,32,True,revision/scripts/force32.log
+64,64,64,True,revision/scripts/force64.log
+256,256,256,True,revision/scripts/force256.log
+512,512,512,True,revision/scripts/force512.log
