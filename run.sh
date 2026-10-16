@@ -32,18 +32,26 @@ done
 
 say() { printf '\n=== %s ===\n' "$1"; }
 
+# The manuscript source is not distributed with this package.  Where it is
+# present (the authors' tree) run.sh also builds it and runs its acceptance
+# checks; where it is not, those two stages are skipped and everything else is
+# unchanged -- the figures take the table numbers they quote from
+# build_tex/labels.json, which does ship.
+if [ -f main.tex ]; then HAVE_TEX=1; N=9; else HAVE_TEX=0; N=7; fi
+[ "$HAVE_TEX" = 1 ] || echo "note: main.tex is not in this package; the manuscript build and its checks are skipped"
+
 # ---------------------------------------------------------------------------
-say "1/9  derived values"
+say "1/$N  derived values"
 $PY figures/src/derived_values.py | tail -3
 
 # ---------------------------------------------------------------------------
-say "2/9  revision result tables"
+say "2/$N  revision result tables"
 # Corollary 3 is recomputed; the Pareto front and the q >= 32 template runs are
 # read from the recorded artefacts unless --search / --revision-slow re-run them.
 $PY -m twoblock.revision_tables
 
 if [ "$REVISION" = 1 ]; then
-    say "2b/9  revision verification scripts"
+    say "2b/$N  revision verification scripts"
     if   [ "$SEARCH"  = 1 ]; then $PY -m twoblock.revision_runs --search
     elif [ "$REVSLOW" = 1 ]; then $PY -m twoblock.revision_runs --slow
     else                          $PY -m twoblock.revision_runs
@@ -51,7 +59,7 @@ if [ "$REVISION" = 1 ]; then
 fi
 
 if [ "$SEARCH" = 1 ]; then
-    say "2c/9  code search behind Table 2 and Tables S14-S16"
+    say "2c/$N  code search behind Table 2 and Tables S14-S16"
     # exhaustive at N <= 36, 4e5 sampled pairs per group above; the seeds are
     # fixed, so the result must match revision/scripts/res_*.json exactly
     $PY -m twoblock.code_search --exhaustive 18,24,27,36 --sampled 45,54,72 \
@@ -59,11 +67,11 @@ if [ "$SEARCH" = 1 ]; then
 fi
 
 # ---------------------------------------------------------------------------
-say "3/9  tables"
+say "3/$N  tables"
 $PY -m twoblock.make_tables
 
 # ---------------------------------------------------------------------------
-say "4/9  figures"
+say "4/$N  figures"
 $PY - <<'PYEOF'
 import os, sys
 import matplotlib
@@ -101,7 +109,7 @@ print("  all nine figures pass T1-T9")
 PYEOF
 
 # ---------------------------------------------------------------------------
-say "5/9  layout-checker self-tests"
+say "5/$N  layout-checker self-tests"
 $PY - <<'PYEOF'
 import sys
 import test_check_layout as T
@@ -117,19 +125,21 @@ if bad:
 PYEOF
 
 # ---------------------------------------------------------------------------
-say "6/9  retired notation is gone from the figure text layers"
+say "6/$N  retired notation is gone from the figure text layers"
 $PY figures/src/check_figure_text.py
 
-# ---------------------------------------------------------------------------
-say "7/9  the manuscript"
-./build_tex.sh
+if [ "$HAVE_TEX" = 1 ]; then
+    # ----------------------------------------------------------------------
+    say "7/$N  the manuscript"
+    ./build_tex.sh
+
+    # ----------------------------------------------------------------------
+    say "8/$N  manuscript acceptance checks"
+    $PY -m twoblock.check_manuscript
+fi
 
 # ---------------------------------------------------------------------------
-say "8/9  manuscript acceptance checks"
-$PY -m twoblock.check_manuscript
-
-# ---------------------------------------------------------------------------
-say "9/9  every number in the manuscript has a source"
+say "$N/$N  every number in the manuscript has a source"
 $PY figures/src/check_text_numbers.py --expect "$($PY - <<'PYEOF'
 import csv
 print(",".join(r["number"] for r in csv.DictReader(open("figures/text_anchors.csv"))))

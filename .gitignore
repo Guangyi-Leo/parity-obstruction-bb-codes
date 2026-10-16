@@ -11,7 +11,8 @@ certs/*.drat
 certs/*.drat.xz
 certs_nosym/*.drat
 certs_nosym/*.drat.xz
-# LaTeX build products, except the label map the figures fall back on
+# build_tex/labels.json is tracked: the figures quote the manuscript's table
+# numbers and read them from it.  Nothing else from a LaTeX build belongs here.
 build_tex/*
 !build_tex/labels.json
 dist/

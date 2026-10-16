@@ -41,9 +41,13 @@ bash run.sh                  # rebuild everything and re-check it
 make test                    # the lemma and identity test suite, ~3 min
 ```
 
+The manuscript source is not distributed with this package, so `run.sh` runs
+seven stages here rather than the nine it runs in the authors' tree (the LaTeX
+build and its acceptance checks are skipped; everything else is identical).
+
 `run.sh` does **not** re-run the SAT solver — those runs take days, and their
-outputs are the CSVs in `data/`. What it does, in nine stages, is rebuild every
-derived artefact from those files and re-check it:
+outputs are the CSVs in `data/`. What it does is rebuild every derived
+artefact from those files and re-check it:
 
 1. recompute the named derivations (`figures/derived_values.csv`);
 2. rebuild the revision's result tables (`data/cor3_hgp.csv`,
@@ -54,11 +58,7 @@ derived artefact from those files and re-check it:
 5. run the layout checker's own self-tests;
 6. check that the retired notation (`d ∈ 8G`, `k = ℓ = 3`, `Table S7`) is gone
    from the figure **text layers**, and that the new notation is present;
-7. build `main.tex` with `latexmk` and fail if any figure was read from
-   anywhere but `figures/`;
-8. run the manuscript acceptance checks (abstract ≤ 150 words, no `TODO`, no
-   retired notation, no overfull box above 10 pt, no undefined reference);
-9. audit every number the manuscript quotes against the file it came from.
+7. audit every number the manuscript quotes against the file it came from.
 
 Optional, slower stages:
 
@@ -88,7 +88,7 @@ failure rather than silently adopted.
 | `tests/` | the lemma, pullback and identity tests |
 | `certs/`, `certs_nosym/` | the CNFs (xz-compressed) and `PROOFS.sha256` |
 | `revision/scripts/` | the recorded run artefacts: `res_*.json`, solver logs, `pareto_table.txt` |
-| `main.tex` | the manuscript (revtex4-2, embedded bibliography) |
+| `build_tex/labels.json` | the manuscript's label → number map; the figures quote supplementary table numbers and read them from here |
 
 Every number in a figure is read from a file: `figures/figure_values.csv`
 records all of them with the file and column each came from, and

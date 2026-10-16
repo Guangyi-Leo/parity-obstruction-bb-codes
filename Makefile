@@ -23,7 +23,7 @@ test:
 tables:
 	$(PY) -m twoblock.make_tables
 
-# rebuild every table and figure, the manuscript, and every check (minutes)
+# rebuild every table and figure and run every check (minutes)
 figures check:
 	bash run.sh
 
@@ -39,4 +39,4 @@ verify-proofs:
 	bash verify_proofs.sh
 
 clean:
-	rm -rf figures/*.png figures/*.pdf tables/*.tex build_tex dist revision/work
+	rm -rf figures/*.png figures/*.pdf tables/*.tex dist revision/work
