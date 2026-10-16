@@ -1,8 +1,12 @@
-*.cnf.xz   -diff -text
-*.pdf      -diff -text
-*.png      -diff -text
-*.otf      -diff -text
-*.csv      text eol=lf
-*.py       text eol=lf
-*.sh       text eol=lf
-*.tex      text eol=lf
+# Every file here is listed in CHECKSUMS.sha256, so git must not rewrite any of
+# them.  The data CSVs are written with CRLF -- that is what RFC 4180 specifies
+# and what Python's csv module emits -- and normalising them to LF makes all 51
+# of their checksums fail in a fresh clone.  No end-of-line conversion, ever.
+* -text
+
+# binaries: no diff attempted
+*.cnf.xz  -diff
+*.pdf     -diff
+*.png     -diff
+*.otf     -diff
+*.svg     -diff
